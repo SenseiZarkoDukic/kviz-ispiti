@@ -27,7 +27,7 @@
 
 ## 🌐 GitHub Pages
 
-Апликација је доступна на GitHub Pages: **[Отвори апликацију](https://senseizar kodukic.github.io/kviz-ispiti/)**
+Апликација је доступна на GitHub Pages: **[Отвори апликацију](https://SenseiZarkoDukic.github.io/kviz-ispiti/)**
 
 > **Напомена:** URL ће бити доступан након активације GitHub Pages у Settings > Pages на GitHub-у.
 
