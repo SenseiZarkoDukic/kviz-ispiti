@@ -210,6 +210,11 @@
         color: #1e40af;
         border: 2px solid #2563eb;
       }
+      .result-average {
+        background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+        color: #92400e;
+        border: 2px solid #f59e0b;
+      }
       .result-poor {
         background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%);
         color: #991b1b;
@@ -1563,7 +1568,7 @@
           className = "result-good";
         } else if (percent >= 50) {
           emoji = "😐";
-          className = "result-good";
+          className = "result-average";
         } else {
           emoji = "💪";
           className = "result-poor";
@@ -1683,9 +1688,20 @@
           // ako se cilja builtin, pretvaramo ga u custom kopiju da ga ne menjamo direktno
           const builtin = builtinSubjects.find((s) => s.id === targetSubjectId);
           if (builtin) {
-            // kopija u custom
+            // Generiši jedinstveni ID za custom kopiju da ne bude konflikt sa built-in ID-jem
+            let customId = builtin.id + "-custom";
+            let counter = 1;
+            // Proveri da li ID već postoji i generiši jedinstveni
+            while (
+              customSubjects.find((s) => s.id === customId) ||
+              builtinSubjects.find((s) => s.id === customId)
+            ) {
+              customId = builtin.id + "-custom-" + counter;
+              counter++;
+            }
+            // kopija u custom sa jedinstvenim ID-jem
             subj = {
-              id: builtin.id,
+              id: customId,
               name: builtin.name + " (моја верзија)",
               questions: [...builtin.questions],
             };
