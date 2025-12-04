@@ -1,0 +1,1565 @@
+
+
+=== PAGE 1 ===
+
+POKRAJINSKI ZAVOD ZA SPORT I
+MEDICINU SPORTA
+ 
+Osnove funkcionalne anatomije
+INTERNA SKRIPTA
+Novi Sad
+
+
+=== PAGE 2 ===
+
+Sadržaj
+Sadržaj............................................................................................................................... 2
+I DEO................................................................................................................................ 4
+Uvod u funkcionalnu anatomiju .................................................................................... 4
+II DEO............................................................................................................................... 5
+Mehanički sistemi.......................................................................................................... 5
+Referentna terminologija ............................................................................................... 5
+Referentni termini za smerove ...................................................................................... 5
+Mehaničke osobine zglobova ........................................................................................ 6
+Vrste pokreta u zglobovima .......................................................................................... 7
+Referentne (anatomske) ravni ....................................................................................... 9
+Referentne (anatomske) ose .......................................................................................... 9
+Terminologija pokreta u zglobovima .......................................................................... 10
+Pokreti u sagitalnoj ravni ............................................................................................. 10
+Pokreti u frontalnoj ravni ............................................................................................ 11
+Pokreti u trasverzalnoj ravni ........................................................................................ 12
+Ostali pokreti............................................................................................................... 13
+Pokreti u pojedinačnim zglobovima ............................................................................ 13
+III DEO............................................................................................................................ 15
+Mišići............................................................................................................................... 15
+Podela.......................................................................................................................... 15
+Poprečno-prugasto mišići ............................................................................................ 15
+Glatki  mišići............................................................................................................... 16
+Srčani mišić................................................................................................................. 17
+Oblik i vrste mišićne kontrakcije ................................................................................. 17
+Mišići koji učestvuju u motorici ekstremiteta ............................................................. 23
+Kinetički lanci............................................................................................................. 27
+Slaba elastičnost mičića ............................................................................................... 28
+Kičma - značaj u održanju statike ............................................................................... 28
+Najčešće aktivnosti koje uzrokuju nastanak bola ........................................................ 29
+Suštinski razlog nastanka lumbalnog bola - mišićna slabost kao posledica inaktivnosti
+................................................................................................................................................. 29
+Mišićni disbalans......................................................................................................... 29
+2
+
+=== PAGE 3 ===
+
+Fizikalna terapija......................................................................................................... 29
+Manipulativne metode - kiropraktika kičmenog stuba ................................................ 30
+Kineziterapijske procedure lumbalnog bola ................................................................ 30
+VI DEO............................................................................................................................ 31
+Kako jačati pelvitrohanteričnu muskulaturu - VEŽBE ............................................... 31
+Prilog vežbi za analizu mišićne kontrakcije .................................................................... 36
+Analiza - ruka.............................................................................................................. 36
+Analiza kičmeni stub ................................................................................................... 41
+Analiza - noga............................................................................................................. 45
+Literatura......................................................................................................................... 47
+3
+
+=== PAGE 4 ===
+
+I DEO
+Uvod u funkcionalnu anatomiju
+Proučavanje oblika i građe živog i zdravog čoveka u vezi s funkcijom svakog organa i
+sistema organa, cilj je funkcionalne anatomije čoveka. Stoga, funkcionalna anatomija proučava
+ljudski organizam kao celinu u kojoj se organi i organski sistemi razvijaju i funkcionišu u
+međusobnoj zavisnosti.
+Funkcionalna anatomija sistema za kretanje prikazuje analizu položaja i pokreta ljudskog
+tela. Omogućava praćenje izvođenja pojedinih pokreta i položaja radi povećanja efekata u bilo
+kom domenu sporta.
+Funkcionalna  anatomija  izučava  tehniku  kretanja  sportista  sa  stanovišta  biomehanike,
+fiziologije, kibernetike i drugih nauka. U poslednje vreme, biomehanika sporta stekla je u
+sportskoj praksi veliki ugled zahvaljujući konkretnim rešenjima u poboljšanju i obučavanju
+sportske tehnike.
+Biomehanička  ispitivanja  u  sportu  se  u  velikoj  meri  svode  na  merenja  i  modeliranje
+kinematičkih i dinamičkih parametara sportiste. Ispitivanja pokreta sportiste definišu se kao
+ispitivanja  sportske  tehnike.  Pod  pojmom  sportske  tehnike  najčešće  se  podrazumeva  zbir
+motornih radnji koje se manifestuju po određenom redosledu i u skladu sa biomehaničkim
+principima  i  služe  za  iskorišćavanje  motoričkog  potencijala  sportiste,  a  u  cilju  postizanja
+maksimalnog sportskog rezultata.
+Kretanje je osnovna životna pojava. U materijalnom svetu živa bića, među njima i čovek,
+kreću se po zakonima mehanike. Mehaničko kretanje je promena položaja materijalne čestice u
+prostoru i vremenu.
+Biomehanika sportskih pokreta, pronalazi zakonitosti, koje sa strane mehanike utiču na
+sportske rezultate.  Oblik čovečijeg tela u pokretu je u stalnoj promeni.  Rad sile prilikom
+pomeranja tela utiče na celo telo ili na delove tela, prilikom čega se troši energija. Mehaničko
+kretanje čoveka se u biomehanici sportskih kretanja izučava preko mehaničkih sila ( sila teže,
+otpor  sredine,  otpor  tla-reakcija,  otpor  kretanja  itd.)  i  preko  rada  mišića  (funkcionalna
+anatomija). Rad mišića izaziva hemijske procese, dok je kompleks mišićno-nervne koordinacije
+rezultat bioloških procesa.
+4
+
+=== PAGE 5 ===
+
+II DEO
+Mehanički sistemi
+Pre  nego  što  utvrdimo  prirodu  kretanja,  moramo  definisati  mehanički  sistem  koji
+posmatramo. U mnogim slučajevima sistem koji se analizira predstavlja celo telo. U nekim
+drugim slučajevima sistem koji se analizira predstavlja desna ruka ili lopta izbačena desnom
+rukom. Prilikom bacanja lopte (kao u rukometu), celo telo vrši opšte kretanje, kretanje ruke
+koja baca loptu je ugaono, dok je kretanje lopte linearno.
+Referentna terminologija
+Saopštavanje određenih informacija o ljudskom kretanju zahteva posebnu terminologiju
+koja tačno određuje položaje tela i smerove.
+Anatomski referentni položaj  se dobija kada se telo nalazi u uspravnom položaju sa malo
+razmaknutim stopalima, pri čemu ruke slobodno vise pored tela sa dlanovima okrenutim prema
+napred. To nije prirodni položaj, ali jeste referentni položaj tela ili polazni položaj u odnosu na
+koji se definišu termini za kretanje.
+Slika 1. Referentni (anatomski) položaj
+Referentni termini za smerove
+Superiorno: bliže glavi (sinonim u zoologiji - kranijalno)
+Inferiorno: dalje od glave (sinonim u zoologiji - kaudalno)
+Anteriorno: ka prednjem delu tela (sinonim u zoologiji - ventralno)
+Posteriorno: ka zadnjem delu tela (sinonim u zoologiji - dorzalno)
+Medijalno: ka srednjoj liniji tela
+Lateralno: od srednje linije tela
+Proksimalno: bliže trupu (na primer, koleno je bliže u odnosu na skočni zglob)
+Distalno: dalje od trupa (na primer, zglob ručja je dalji u odnosu na lakat)
+5
+
+=== PAGE 6 ===
+
+Superficijalno: ka površini tela
+Duboko (profundus): unutar tela i od površine tela
+Slika 2. Smerovi koordinatnog sistema u odnosu na čovečiji sistem za kretanje
+Mehaničke osobine zglobova
+Lokomotorni sistem izgrađuju: kosti, zglobovi i mišići.
+Glavni i sporedni elementi zgloba su:
+Glavni elementi:
+•Zglobne površine – delovi kostiju pokriveni hrskavicom čija debljina zavisi od pritiska
+koji trpi zglob
+•Zglobna šupljina – prostor između zglobnih površina ispunjen sluzavom tečnošću –
+sinovijom
+•Zglobna čahura – sastoji se iz spoljašnjeg sloja (fibrozna kapsula) i unutrašnjeg sloja
+(sinovijalna membrana)
+Sporedni elementi:
+•Ligamenti – fibrozne trake koje spajaju zglobne krajeve kostiju i pojačavaju zglobnu
+čahuru spolja (ekstrakapsularne veze) ili se nalaze u zglobnoj šupljini (intrakapsularne
+veze)
+•Vezivno – hrskavičave ploče – nalaze se unutar pojedinih zglobova; ublažuju udarce,
+adaptiraju i povećavaju zglobne površine
+6
+
+=== PAGE 7 ===
+
+Radi normalnih  funkcija aparata  za  kretanje, zglobovi  treba  da poseduju dve  osnovne
+mehaničke  osobine:  čvrstinu  i  pokretljivost.  Iako  ove  dve  osobine  međusobno  izazivaju
+suprotan efekat, ipak je moguće, naročito zbog specifičnih osobina mišićnih vlakana, da svaki
+pokretan zglob do izvesne mere poseduje obe osobine.
+Čvrstina je obezbeđena zglobnim učvršćivačima (stabilizatorima), koji se dele na pasivne i
+aktivne. U pasivne stabilizatore se ubraja: zglobna čaura, zglobne veze unutar i van zglobne
+čaure. Negativni pritisak koji vlada unutar zglobne čaure, ima svoju funkciju u stabilizaciji
+zgloba. Što su pasivni zglobni stabilizatori kraći i jači, zglobu će biti obezbeđena veća čvrstina.
+Složeniju ulogu u stabilizaciji zgloba imaju mišići ili aktivni stabilizatori zgloba. Mišići ne
+moraju da budu kratki da bi zglob bio stabilan, već je neophodno da budu snažni. Ako su
+stabilizatori duži i pokretljivost je veća. Naime, vežbama za istezanje treba povećati dužine
+svih stabilizatora; vežbama za jačanje neophodno je ojačati aktivne stabilizatore-mišiće. Samo
+u tom slučaju će se održati neophodne osobine zglobova. Povećano dužinom stabilizatora
+omogućiće se pokreti sa velikim amplitudama kretanja, ali će zato snažni mišići biti u stanju da
+učvrste zglob i ne dozvole da dejstvo spoljašnjih sila bude uzrok povređivanja zgloba.
+Svaki  zglob  poseduje  mogućnost  kretanja  sa  većim  ili  manjim  amplitudama.  Takve
+kvantitativne razlike dele pokretljivost na: funkcionalnu i rezervnu.
+Funkcionalna  pokretljivost  je  pokretljivost  sa  manjim  amplitudama  kretanja  koja  se
+manifestuje pokretima u svakodnevnom životu. Međutim, svaki zglob poseduje veću amplitudu
+od one koja se svakodnevno koristi.
+Rezervna pokretljivost je dodatak funkcionalnoj pokretljivosti i omogućava pokrete mnogo
+većih amplituda nego što su pokreti u svakodnevnom životu. Rezervna pokretljivost se može
+povećavati  sistematskim  vežbanjem  za  jačanje, istezanje  i  opuštanje mišića,  tako  da  se u
+svakom zglobu može dostići maksimalna amplituda kretanja za datu konstituciju. Treba je
+povećavati samo u pravcima gde je ona celishodna. Povećavanjem funkcionalne sposobnosti se
+povećava i radna sposobnost, čime se povećava mogućnost postizanja boljih rezultata kretanja
+u sportu.
+Da je zglob centar u kojem se vrši pokret potvrđuje i činjenica da svaki zglob, ako je
+izvesno vreme van upotrebe, gubi pokretljivost. Duže vremena inaktivan zglob (usled povrede
+zglob je nepokretan zbog gipsane obloge) gubi u velikoj meri pokretljivost usled drastičnog
+skraćivanja  svih  stabilizatora  (kontraktura).  Ukoliko  je  jedan  zglob  van  upotrebe  i  preko
+kritičnog vremena, kontraktura prerasta u ankilozu, tj. zglob gubi svoju osnovnu funkciju,
+zglobna šupljina se ispuni vezivnim tkivom, a zglobni okrajci srastu.
+Vrste pokreta u zglobovima
+Zglob predstavlja spoj dve ili više kostiju. Prema mogućnosti kretanja, svi zglobovi u
+sastavu aparata za kretanje se dele na nepokretne, polupokretne i pokretne.
+Nepokretni zglobovi se dele na vezivne, hrskavičave i koštane spojeve. Njihova funkcija je
+u osnovi statička. Pomoću njih se više vrši pričvršćivanje, nego kretanje.
+Polupokretni zglobovi vezuju kratke kosti snažnim zglobnim čaurama i vezama (kosti ručja
+i doručja, nožja i donožja, kao i kičmenih pršljenova). Amplitude pokreta u tim zglobovima su
+male. Pomoću njih se u velikoj meri vrši ublažavanje kontakata sa čvrstom podlogom, čime se
+smanjuju vibracije koštanog dela vezanog za taj deo tela.
+Pokretni  zglobovi  su  centri  pokreta  u  aparatu  za  kretanje.  Oni  u  svojoj  kompoziciji
+obuhvataju najmanje dva koštana okrajka, uglavnom dugih kostiju. Njihova uloga je da ublaže
+tvrde udare i smanje trenje koje je u zglobovima pri kretanju neizbežno. Kod ovakvih zglobova
+postoje glavni i sporedni elementi. Glavni elementi zgloba su: zglobna površina, zglobna čaura
+i zglobna šupljina. Prema pravcima mogućih kretanja, pokretni zglobovi se mogu podeliti na
+7
+
+=== PAGE 8 ===
+
+jednoosovinske (cilindrični  ili  šarka zglobovi),  dvoosovinske (jajasti  i  sedlasti  zglobovi)  i
+troosovinske (loptasti zglobovi) zglobove.
+Zahvaljujući pokretima u zglobovima čovek se kreće u sve tri ravni prirodnog 
+koordinatnog sistema. 
+To su:  -čeona ili frontalna ravan, 
+ -profilna, bočna ili sagitalna ravan i 
+ -horizontalna, transverzalna ili vodoravna ravan. 
+Pokreti u frontalnoj ravni su pokreti levo-desno, a ravan deli telo na prednju i zadnju stranu.
+Pokreti u sagitalnoj ravni su pokreti napred-nazad, a ravan deli telo na levu i desnu polovinu.
+Horizontalna ravan deli telo na gornju i donju polovinu, a pokreti su rotacije ili kruženja. Tom
+prilikom se vrše obrtanja oko sve tri ose tog sistema.
+Osnovni pokreti u zglobovima su podeljeni na:
+Pregibanje (flexija)
+Opružanje (extensija)
+Privođenje (addukcija)
+Odvođenje (abdukcija)
+Okretanje upolje i unutra (spoljašnja i unutrašnja rotacija)
+Pregibanje i opružanje se vrše oko čeone ose u sagitalnoj ravni. Odvođenje i privođenje se
+vrše oko sagitalne ose i u čeonoj ravni. Obrtanja se vrše oko vertikalne ose i u horizontalnoj
+ravni. Svi navedeni pokreti u navedenim ravnima kretanja i osama obrtanja se vrše u odnosu na
+čovečiji aparat za kretanje, kada se on nalazi u položaju normalnog uspravnog stava.
+Na primer, za jednoosovinske zglobove je tipično pregibanje-opružanje; za dvoosovinske
+zglobove  je  tipično  pregibanje-opružanje,  kao  i  odvođenje-privođenje.  Kombinacijom
+navedenih pokreta, što važi i za troosovinske zglobove, i to redosledom: pregibanje-odvođenje-
+opružanje-privođenje postiže se kruženje (circumductio).
+Za troosovinske zglobove je karakteristično da se u tim zglobovima mogu vršiti kretanja u
+sve tri ravni i oko sve tri ose prirodnog koordinatnog sistema.
+Slika 3. Ravni (frontalna, sagitalna, transverzalna)
+8
+
+=== PAGE 9 ===
+
+Referentne (anatomske) ravni
+Sagitalna ravan, koja se naziva i anteroposteriorna ravan, bočna ili profilna, deli telo na
+levu i desnu polovinu.
+Frontalna ravan, koja se naziva i čeona ravan, deli telo na prednju i zadnju polovinu.
+Horizontalna, transverzalna ili vodoravna ravan deli telo na gornju i donju polovinu.
+Kod  osobe  koja  se  nalazi  u  anatomskom  referentnom  položaju,  tri  osnovne  ravni  se
+međusobno seku u jednoj tački koja se naziva težište tela ili centar mase.
+Referentne (anatomske) ose
+Postoje tri osnovne ose za opisivanje kretanja i svaka je normalna na jednu od tri ravni
+kretanja.
+Mediolateralna osa, drugačije se naziva i frontalno-horizontalna osa, normalna je na
+sagitalnu ravan.
+Rotacija u frontalnoj ravni se vrši oko anteroposteriorne ose ili sagitalno-horizontalne
+ose.
+Transverzalna ravan rotacije se prostire oko longitudinalne ose, ili vertikalne ose.  
+Slika 4. Ravni, ose, smerovi u odnosu na koordinatni sistem
+9
+
+=== PAGE 10 ===
+
+Terminologija pokreta u zglobovima
+Kada se telo  čoveka  nalazi  u anatomskom  referentnom  položaju, smatra  se da su svi
+zglobovi u položaju od 0°. Rotacije delova tela dobijaju ime u odnosu na smer kretanja i mere
+se kao ugao između položaja dela tela i anatomskog položaja.
+Pokreti u sagitalnoj ravni
+Iz anatomskog položaja, tri osnovna pokreta koji se vrše u sagitalnoj ravni su:
+fleksija,
+ekstenzija i
+hiperekstenzija
+Slika 5. Pokreti u sagitalnoj ravni
+10
+
+=== PAGE 11 ===
+
+Pokreti u frontalnoj ravni
+Osnovni pokreti u frontalnoj ravni su: 
+abdukcija
+adukcija i 
+lateralna fleksija.
+Abdukcija odvodi deo tela od središnje linije, dok adukcija privodi deo tela ka središnjoj
+liniji tela. Ostali pokreti u frontalnoj ravni obuhvataju naginjanje trupa u stranu, što se naziva
+desna i leva lateralna fleksija.
+Slika 6. Pokreti u frontalnoj ravni
+11
+
+=== PAGE 12 ===
+
+Pokreti u trasverzalnoj ravni
+Pokreti tela u transverzalnoj ravni su pokreti rotacije oko longitudinalne ose.
+Rotacija ruke ili noge u celini u transverzalnoj ravni naziva se medijalna rotacija ili
+unutrašnja rotacija  što označava rotaciju ka središnjoj liniji tela. Lateralna rotacija
+ili spoljašnja rotacija  označava rotaciju od središnje linije tela.
+Spoljašnja i unutrašnja rotacija podlakta se nazivaju još i supinacija i pronacija.
+Pokret  u  transverzalnoj  ravni  od  lateralnog  do  anteriornog  položaja  naziva  se
+horizontalna adukcija ili horizontalna fleksija .
+Slika 7. Pokreti u transverzalnoj ravni
+12
+
+=== PAGE 13 ===
+
+Ostali pokreti
+Mnogi pokreti ekstremiteta se vrše u ravnima koje su postavljene dijagonalno u odnosu na
+tri osnovne ravni. Obzirom da su ljudski pokreti složeni, imenovanje svake ravni nema velikog
+smisla. Jedan poseban slučaj opšteg kretanja koje obuhvata kružni pokret nekog dela tela
+naziva se  cirkumdukcija. Cirkumdukcija povezuje fleksiju, ekstenziju, abdukciju i adukciju
+što za posledicu ima trajektoriju oblika kupe.
+Slika 8. Cirkumdukcija
+Pokreti u pojedinačnim zglobovima
+Pokreti u vratnom delu kičmenog stuba - pokreti glave
+Pregibanje napred - anteflexio
+Pregibanje nazad - retroflexio
+Bočno pregibanje - lateroflexio
+Rotacija – rotatio
+Pokreti kičmenog stuba
+Pregibanje napred (pretklon) - anteflexio
+Pregibanje nazad (zaklon) - retroflexio
+Bočna pregibanja (otklon) - lateroflexio
+Rotacija (sukanje) - torsio
+13
+
+=== PAGE 14 ===
+
+Pokreti u zglobu ramena
+Pregibanje napred (predručenje) - anteflexio
+Pregibanje nazad (zaručenje) - retroflexio
+Odvođenje (odručenje) - abductio
+Privođenje (priručenje) - adductio
+Spoljašnja rotacija (lateralna rotacija) - rotatio
+Unutrašnja rotacija (medijalna rotacija) - rotation
+Pokreti lopatice u zglobu ramena
+Elevacija lopatice
+Depresija lopatice
+Retrakcija lopatice
+Protrakcija lopatice
+Pokreti u zglobu lakta
+Pregibanje - flexio (art. Humeroulnare, art.Humeroradiale)
+Opružanje - extensio
+Uvrtanje - pronatio (art. humeroradiale)
+Izvrtanje - supinatio
+Hiperekstenzija - hiperextension (uglavnom kod žena)
+Pokreti u zglobu šake
+Palmarna fleksija - pregibanje u smeru dlana
+Dorzalna fleksija - pregibanje u smeru nadlanice
+Radijalna abdukcija - odvođenje šake u polje
+Ulnarna abdukcija - odvođenje šake unutra
+Pokreti u zglobu kuka
+Pregibanje napred (prednoženje) - flexio
+Opružanje/pregibanje unazad (zanoženje) - extensio/retroflexio
+Odvođenje (odnoženje) - abductio
+Privođenje (prinoženje) - adductio
+Spoljašnja rotacija (lateralna rotacija) - rotatio
+Unutrašnja rotacija(medijalna rotacija) - rotatio
+Pokreti u zglobu kolena
+Pregibanje - flexio
+Opružanje - extensio
+Spoljašnja rotacija (lateralna rotacija) - rotatio
+Unutrašnja rotacija(medijalna rotacija) -rotatio ....samo kada je koleno u položaju 
+fleksije!
+Pokreti u skočnom zglobu
+Dorzalna fleksija/pregibanje - dorsiflexio
+Plantarna fleksija/opružanje - plantoflexio
+Supinacija/izvrtanje - inversio
+Pronacija/uvrtanje – eversio
+14
+
+=== PAGE 15 ===
+
+III DEO
+Mišići
+Mišićno tkivo je procentualno najzastupljenije  tkivo u organizmu većine  životinja i  čoveka.
+Građeno je od visokospecijalizovanih ćelija (miocita), koje imaju sposobnost da transformišu
+hemijsku energiju u mehanički rad. Na taj način one razvijaju silu neophodnu za pokretanje tela
+i  njegovih  delova,  promenu  veličine  i  oblika  organa i  održavanje  svih  vitalnih  funkcija
+organizma. 
+Osnovna  svojstva  mišićnih  ćelija  su  kontraktilnost  i  ekscitabilnost.  Kontrakcija
+(skraćivanje)  se  odvija  zahvaljujući  prisustvu  proteina specifične  molekulske  građe  i
+organizacije  unutar  miocita.  Ekscitabilnost  podrazumeva  prisustvo  receptora  na  ćelijskoj
+membrani koji reaguju na stimulaciju, a koji omogućavaju nervnom i endokrinom sistemu  da
+kontrolišu aktivnost mišića.
+Podela
+S obzirom na citološke karakteristike miocita, inervaciju i način kontrakcije, mišići se
+dele na poprečno-prugasto (skeletno) , glatko i srčano mišićno tkivo .
+Poprečno-prugasto  tkivo  izgrađuje  skeletne  i  visceralne  prugaste  mišiće.  Njegove
+kontrakcije su brze, snažne i uglavnom se odvijaju pod kontrolom svesti. Glatko tkivo ulazi u
+sastav unutrašnjih organa i ono je specijalizovano za dugotrajne kontrakcije slabijeg intenziteta.
+Uglavnom se kontrahuje spontano ili pod uticajem endokrinog i autonomnog nervnog sistema.
+Srčano mišićno tkivo gradi najveći deo mase srca, a njegov rad je takođe automatizovan.[1]
+Poprečno-prugasto mišići
+Poprečno-prugasto (skeletno) mišićno tkivo ( lat: textus muscularis striatus ) čini najveći
+deo mase ljudskog tela (oko 40%). Ono izgrađuje mišiće trupa, udova, lica, vrata, jezika, nepca,
+ždrela,  grkljana,  dijafragme, najvećeg dela  jednjaka,  mokraćne cevi,  vagine itd. Ti mišići su
+odgovorni za kretanje, održavanje pozicije tela, mimiku, govor, gutanje, disanje i druge vitalne
+funkcije organizma.
+Skeletno  tkivo  je specijalizovano  za  kratkotrajne  snažne  kontrakcije,  a inervišu  ga
+motorna i senzorna vlakna cerebrospinalnih živaca što znači da se nalazi pod kontrolom volje
+(sa izuzetkom jednjaka i dijafragme). 
+Poprečno-prugaste mišiće izgrađuju dugačke i relativno tanke ćelije cilindričnog oblika,
+koje se nazivaju  i  mišićna  vlakna.  Vlakna  su postavljena  paralelno  i okružena  su slojem
+rastresitog veziva, koje se naziva endomizijum. Veći broj vlakana se udružuje i formira snop,
+koga okružuje omotač perimizijum. Na kraju, ovi snopovi formiraju mišić i okruženi su još
+jednim omotačem izgrađenim od gustog vezivnog tkiva, koji nosi naziv epimizijum. Kroz ove
+omotače prolaze krvni sudovi i živci. 
+Mišićne ćelije su dugačke od 1 -{mm}- do 12 -{cm}-, a imaju promer 10-100 -{µm}-.
+U njihovoj sarkoplazmi se nalaze brojna ovoidna jedra, veliki broj organela i mišićna vlakanca
+(miofibrile).  Jedna  od  glavnih  mikroskopskih  karakteristika  ovih  ćelija je  ispruganost  u
+15
+
+=== PAGE 16 ===
+
+poprečnom pravcu. Ovaj optički fenomen je posledica strukture miofibrila, u kome se smenjuju
+svetle (izotropne) i tamne (anizotropne) pruge. Tu pojavu je prvi primetio Levenhuk  1685.
+godine.
+Osnovni delovi mišića :
+  - trbuh mišića  (venter)
+  - tetiva (tendo)
+Pomoćni organi mišića:
+•Sluzne kese (bursa synovialis) -su izgrađene od vezivnog tkiva ispunjene tečnošću;
+smeštene između mišića i čvrste površine (kosti, zgloba); sprečavaju trenje prilikom
+kontrakcije
+•Tetivni omotači - nalaze se na mestima gde tetive prolaze kroz koštano-vezivne otvore i
+kanale; smanjuju trenje
+•Fascije - vezivne opne koje obavijaju mišiće, pojedinačno ili čitave grupe; fiksiraju
+mišiće
+Mišići se dele prema obliku i prema funkciji koju obavljaju.
+Prema obliku:
+     - dugi 
+     - kratki (ovalni, obli, kružni)
+     - pljosnati (lepezasti, trouglasti)
+U odnosu na funkciju:
+     - jednozglobni
+     - višezglobni (prelazi  preko više zglobova)
+Glatki mišići
+Glatko mišićno tkivo ( lat: textus muscularis nonstriatus ) ulazi u sastav krvnih i limfnih
+sudova, organa  sistema  za varenje ,  dušnika,  mokraćne  bešike,  materice,  kože, unutrašnjih
+mišića oka itd. Ono je specijalizovano za slabe i spore kontrakcije, a inervisano je od strane
+autonomnog  nervnog  sistema.  Za  razliku  od  skeletnog  tkiva,  ovi  mišiću  su  sposobni  za
+dugotrajne kontrakcije i veoma teško se zamaraju.
+Glatke mišićne ćelije su vretenastog oblika i imaju jedno ovalno  jedro postavljeno u
+središnjem delu  sarkoplazme. Dužina im se kreće od 20 do 500 -{µm}-, a dijametar 2-5 -
+{µm}-. Aktinski i miozinski filamenti su ovde drugačije organizovani, tako da nema poprečne
+ispruganosti. 
+Glatki mišići se mogu podeliti na: višejedinične i jednojedinične. Višejedinični mišići
+su izgrađeni od odvojenih vlakana, koja su inervisana posebnim nervnim završecima i rade
+nezavisno  jedna  od  drugih.  Jednojedinični  mišić  funkcioniše  kao  celina,  odnosno  njega
+izgrađuju vlakna koja se zajedno kontrahuju i koja su organizovana u listove ili snopove. Ovaj
+tip mišića se naziva i sincicijalni zbog međusobne povezanosti mišićnih ćelija, a takođe se
+koristi sinonim visceralni glatki mišići jer oni grade većinu unutrašnjih organa. 
+16
+
+=== PAGE 17 ===
+
+Srčani mišić
+Srčano mišićno tkivo ( lat: textus muscularis cardiacus striatus ) izgrađuje središnji sloj
+srčanog zida (miokard) i središnji sloj plućnih vena u blizini njihovog ušća u srce. Po strukturi
+je slično poprečno-prugastom, a po funkciji glatkom mišićnom tkivu.
+Sastavljeno  je  od  poprečno-prugastih  vlakana,  koja  se  razlikuju  od  skeletnih  po
+dimenzijama  (tanja  su  i  kraća),  rasporedu  jedara,  prisustvu  tzv.  prelaznih  ploča,  slabije
+izraženoj poprečnoj ispruganosti i dr. Srce se sastoji od dve vrste vlakana. Jedna vrsta izgrađuje
+radnu muskulaturu odgovornu za kontrakcije, a druga vrsta sprovodnu musklulaturu koja sadrži
+malo  kontraktilnih  fibrila  i  koja  je  odgovorna  za  stvaranje  i  sprovođenje  impulsa  do
+kontraktilnih vlakana. 
+Srčana mišićna vlakna su sastavljena od serijski vezanih ćelija (kardiomiocita). One su
+široke 10-20 -{µm}-, a dugačke 50-120 -{µm}-. Svaka ćelija ima jedno ili dva centralno
+postavljena  jedra, što omogućava razlikovanje srčanog i skeletnog mišićnog tkiva.  Miofibrili
+takođe nemaju isti raspored kao kod poprečno-prugastih mišića, ali su  aktinski i  miozinski
+filamenti organizovani na isti način. Poprečna ispruganost nije tako izražena, zbog prisustva
+velikog broja  mitohondrija (koje zauzimaju 40% volumena kardiomiocita). Između susednih
+ćelija nalaze se prelazne ploče (interkalatni diskovi). 
+Srčani mišić se kontrahuje ritmično i automatski, a inerviše ga vegetativni nervni sistem
+(simpatikus i parasimpatikus). Signali koji izazivaju srčane kontrakcije nastaju u zidu desne
+pretkomore, ali nervni sistem utiče na njegov ritam. 
+Oblik i vrste mišićne kontrakcije
+Kao rezultat kontrakcije, skraćenje u mišićnim vlaknima, javlja se određeni napon. To je
+jedna od osnovnih fizioloških karakteristika mišića.
+Ako se mišićna sila suprotstavlja nekoj spoljašnjoj sili tako da rezultat bude relativno
+mirovanje, onda se takvo mišićno naprezanje naziva statičkim naprezanjem .
+Razlikuju se dve vrste statičkih mišićnih naprezanja: aktivno i pasivno.
+Aktivno statičko naprezanje nastupa kada se mišić nalazi u kontrakciji, u ravnoteži sa
+ostalim silama, ali tako da održava svoje pripoje uvek na istom rastojanju. Ovakva kontrakcija
+se još naziva i izometrijskom kontrakcijom . Tom prilikom se ne izvršava rad, ali, zbog stanja
+kontrakcije, postoji relativno veliki utrošak energetskih rezervi u ćelijama mišićnih vlakana.
+Pošto statičko  aktivno mišićno  naprezanje otežava promet  materije i energije u mišićima,
+zamor koji nastupa za vreme i posle statičkog aktivnog naprezanja je još izrazitiji. Ova forma
+mišićne kontrakcije se javlja kada je spoljašnji teret jednak ili veći od napona mišića, ali ne
+postoje uslovi za istezanje mišića pod uticajem tog spoljašnjeg opterećenja. Karakteristično za
+sve izražaje je statičko aktivno naprezanje.
+Pasivno statičko naprezanje je izvršeno onda kada su mišićni pripoji toliko udaljeni, pod
+uslovom  da  su  mišići  opušteni  (distrahirani),  da  čvrstina  mišićnog  tkiva  ne  dozvoljava
+udaljavanje  mišićnih  pripoja  na  veća  rastojanja.  Na  taj  način  se  pasivnim  mišićnim
+naprezanjem suprotstavlja sili koja je izvršila udaljavanje mišićnih pripoja. Ako se mišićni
+pripoji pod dejstvom mišićne sile približavaju ili udaljavaju, ali brzinom koja je kontrolisana
+mišićnim dejstvom, onda mišići vrše rad. Dianmički rad mišića može da se podeli na dinamički
+rad sa pozitivnim efektom i dinamički rad sa negativnim efektom.
+Dinamićki rad sa pozitivnim efektom je izvršen ako mišić svojom kontrakcijom dejstvuje u
+smislu približavanja svojih pripoja. Takva vrsta mišićne kontrakcije se naziva i koncentričnom
+17
+
+=== PAGE 18 ===
+
+mišićnom  kontrakcijom . Ovaj  oblik  kontrakcije  naziva  se  i  izotonička  (isti  napon)  ili
+miometrijska  kontrakcija.  Dinamički  rad  sa  pozitivnim  efektom  je  osnovna  vrsta  mišićne
+delatnosti. To je slučaj kada mišićna sila dejstvuje kao aktivna sila, a spoljašnja kao pasivna.
+Dinamički  rad  sa negativnim  efektom  se vrši u slučaju kada  neka  druga sila  (obično
+spoljašnja sila) vrši kretanje, dok se sila mišića suprotstavlja tom kretanju. To znači da druga
+sila  dejstvuje  u  smeru  udaljavanja  pripoja  aktuelnom  mišića,  a  tom  se  dejstvu  isti  mišić
+suprotstavlja svojom kontrakcijom. Kretanje će se vršiti u smeru dejstva druge sile, dok će sila
+aktuelnog mišića dejstvovati u suprotnom smeru. Takva vrsta mišićne kontrakcije, odnosno
+spore distrakcije, se naziva ekscentrična ili pliometrična mišićna kontrakcija . Mišić svojom
+kontrakcijom dejstvuje u smislu udaljavanja svojih pripoja. Negativni efekat mišićnog dejstva
+se ispoljava kao aktivna regulacija dejstva neke druge sile. Ta druga sila (spoljašnja) je aktivna
+sila, a mišićna sila je pasivna.
+Koncentrična kontrakcija se može ispoljavati i kao balistička kontarkcija i dejstvo mišića u
+širinu.  Balistička kontrakcija  mišića predstavlja približavanje mišićnih pripoja u najkraćem
+vremenu i na taj način se dobija maksimalna brzina kretanja pokrenutog dela tela čime se
+ispunjava jedna od osnovnih komponenti od koje zavisi veliki broj vrhunskih dostignuća u
+sportu.
+Dejstvo mišića u širinu  se zasniva na činjenici da svaki mišić usled kontrakcije gde se gubi
+na dužini, dobija na širini i istovremeno na čvrstini. Ovakvim povećavanjem prečnika mišića
+može da se izvrši određeni rad.
+U realnim fiziološkim uslovima aktivnosti mišića praktično se ne javlja čista izometrijska
+ili  čista  izotonička  reakcija.  Ona  praktično  uvek  ima  mešoviti  karakter  i  naziva  se
+auksotonična kontrakcija .
+U pogledu vrste mišićne kontrakcije, režima kontrakcije, razlikuju se dve vrste: prosta ili
+pojedinačna mišićna kontrakcija i složena mišićna kontrakcija ili tetanus.
+Mišići koji učestvuju u pokretima zglobova
+Mišići koji učestvuju u pokretima ramenog pojasa
+Rame jen ajpokretljiviji loptasti zglob. Vrše se pokreti: fleksije, ekstenzije, abdukcije 
+(odvođenje ruke u stranu), adukcije (privođenje ruke trupu), unutrašnje, spoljašnje rotacije i
+kružno kretanje.
+•Povlačenje ključnice put nazad vrše leđni mišići koji se pripajaju na kičmenom stubu, 
+ključnici i lopatici:
+    - rombasti mišić (m. rhomboideus)
+    - trapezni mišić (m. trapezius)
+•Povlačenje ključnice put napred vrše grudni mišići koji se pripajaju na rebrima i 
+lopatici:
+    - mali grudni mišić (m. pectoralis minor)
+    - prednji zupčasti mišić (m. serratus anterior) 
+•Povlačenje ključnice put naviše vrše leđni mišići koji se pripajaju na kičmenom stubu, 
+ključnici i lopatici:
+   - trapezni mišić (gornji snopovi) (m. trapezius)
+   - mišić podizač lopatice (m. levator scapulae)
+•Rotiranje ramenog pojasa upolje vrše :
+    - trapezni mišić (m. trapezius)
+    - prednji zupčasti mišić (m. serratus anterior) 
+18
+
+=== PAGE 19 ===
+
+•Rotiranje ramenog pojasa put unutra vrše :
+     - rombasti mišić (m. rhomboideus)
+     - mali grudni mišić (m. pectoralis minor)
+     - mišić podizač lopatice (m. levator scapulae)
+•fleksiju vrše: veliki grudni mišić (m. pectoralis major), deltasti mišić - prednja vlakna 
+    (m. deltoideus), kao i mišići nadlakta dvoglavi mišić 
+    (m. biceps brachii) i kljunasto-ramenični mišić 
+    (m. coracobrachialis)
+•Ekstenziju vrše: deltasti mišić – zadnja vlakna(m. deltoideus), najširi leđni mišić (m. 
+latissimus dorsi), troglavi mišić nadlakta – duga glava (m.triceps brachii), veliki obli 
+mišić (m.teres major), veliki grudni mišić 
+    (m. pectoralis major)
+•Abdukciju vrše: deltasti mišić – srednja vlakna (m. deltoideus) i nadgrebeni mišić 
+(m.supraspinatus)
+•Adukciju obavljaju:  veliki grudni mišić (m. pectoralis major), kljunasto-ramenični mišić
+(m.coracobrachialis), veliki obli mišić (m.teres major) i najširi leđni mišić (m. 
+latissimus dorsi) 
+•Unutrašnju rotaciju vrše : podlopatični mišić (m. subscapularis), veliki obli mišić 
+(m.teres major), najširi leđni mišić (m. latissimus dorsi), veliki grudni mišić (m. 
+pectoralis major) i deltasti mišić – prednja vlakna (m. deltoideus)
+ 
+•Spoljašnju rotaciju vrše:  mali obli mišić (m. teres minor), podgrebeni mišić (m. 
+infraspinatus) i deltasti mišić – zadnja vlakna (m. deltoideus) 
+Mišići koji učestvuju u pokretima zgloba lakta 
+U ramenično – lakatnom zglobu vrše se pokreti fleksije i ekstenzije, a u žbično- lakatnom 
+zglobu vrše se pokreti uvrtanja (pronacija) i izvrtanja podlakta (supinacija).
+•Fleksiju obavljaju:  dvoglavi mišić nadlakta(m. biceps brachii), nadlakatni mišić 
+(m.brachialis), nadlakatno-žbični mišić (m. brachioradialis) i mišić podlakta – obli 
+uvrtač podlakta (m. pronator teres) 
+•Ekstenziju vrše: troglavi mišić nadlakta (m. triceps brachii) i mišić podlakta - srpasti 
+mišić (m. anconeus) 
+•Izvrtanje (supinaciju) obavljaju : izvrtač podlakta (m. supinator), dvoglavi mišić 
+nadlakta(m. biceps brachii) i nadlakatno-žbični mišić (m. brachioradialis)
+•Uvrtanje (pronaciju) vrše: mišić podlakta – obli uvrtač podlakta (m. pronator teres), 
+četvrtasti uvrtač podlakta (m. pronator quadratus) i nadlakatno-žbični mišić (m. 
+brachioradialis) 
+19
+
+=== PAGE 20 ===
+
+Mišići koji učestvuju u pokretima zgloba šake
+Gornji zglob šake izgrađuju donji okrajci žbice i laktice i prve tri kosti proksimalnog reda 
+ručja (carpus). U ovom zglobu se vrše pokreti palmarne fleksije (pregibanje šake put 
+napred), dorzalne fleksije (pregibanje šake put nazad), radijalna, ulnarna abdukcija i kružno
+kretanje
+•Palmarnu fleksiju šake vrše mišići podlakta : unutrašnji pregibač šake (m. flexor carpi 
+ulnaris), spoljašnji pregibač šake (m. flexor carpi radialis), dugi dlanski mišić (m. 
+palmaris longus), površni pregibač prstiju (m. flexor digitorum superficialis), duboki 
+pregibač prstiju (m. flexor digitorum profundus) i dugi pregibač palca (m. flexor 
+pollicis longus)
+•Dorzalnu fleksiju (ekstenziju) vrše :dugi spoljašnji opružač šake (m. extensor carpi 
+radialis longus), kratki spoljašnji opružač šake (m. extensor carpi radialis 
+brevis),unutrašnji opružač šake (m. extensor carpi ulnaris), opružač prstiju (m. extensor 
+digitorum), opružač kažiprsta (m. extensor indicis), opružač malog prsta (m. extensor 
+digiti minimi), dugi opružač palca (m. extensor pollicis longus) i kratki opružač palca 
+(m. extensor pollicis brevis) 
+•Radijalnu abdukciju vrše : spoljašnji pregibač šake (m. flexor carpi radialis), dugi 
+spoljašnji opružač šake (m. extensor carpi radialis longus), kratki spoljašnji opružač 
+šake (m. extensor carpi radialis brevis), dugi opružač palca (m. extensor pollicis longus)
+i kratki opružač palca (m. extensor pollicis brevis) i dugi odvodilac palca (m. abductor 
+pollicis longus)
+•Ulnarnu abdukciju vrše : unutrašnji pregibač šake (m. flexor carpi ulnaris) i unutrašnji 
+opružač šake (m. extensor carpi ulnaris) 
+Mišići koji učestvuju u pokretima kičmenog stuba
+Pokreti trupa koji vrši kičmeni stub su sledeći:
+•Fleksija (pregibanje trupa put napred)
+•Ekstenzija ili retrofleksija (pregibanje trupa put nazad)
+•Laterofleksija (bočno pregibanje)
+•Torzija (uvrtanje trupa)
+•Fleksiju vrše: pravi trbušni mišić (m. rectus abdominis), površni kosi trbušni mišić (m. 
+obliquus externus abdominis), duboki kosi trbušni mišić (m. obliquus internus 
+abdominis), veliki slabinski mišić (m. psoas major), mali slabinski mišić (m. psoas 
+minor)
+•Ekstenziju vrše: paravertebralni mišići (m. erector spinae, m. multifidus, m. 
+semispinalis, mm. interspinales), četvrtasti slabinski mišić (m. quadratus lumborum)
+•Laterofleksiju vrše: paravertebralni mišići jednostranom kontrakcijom (m. erector 
+spinae, m. multifidus, mm. intertransversales), četvrtasti slabinski mišić (m. quadratus 
+lumborum), površni kosi trbušni mišić (m. obliquus externus abdominis), duboki kosi 
+20
+
+=== PAGE 21 ===
+
+trbušni mišić (m. obliquus internus abdominis), pravi trbušni mišić (m. rectus 
+abdominis)
+•Torziju vrše: površni kosi trbušni mišić (m. obliquus externus abdominis), duboki kosi 
+trbušni mišić (m. obliquus internus abdominis), duboki paravertebralni mišići (m. 
+multifidus, m. semispinalis, mm. rotatores)
+Najčešći razlozi povrede diskusa kod sportista: 
+   - izraženo i neravnomerno opterećenje kičme tokom sportskih aktivnosti
+    - nagli pokreti kičmenog stuba u kombinaciji sa lošim položajem tela
+Najčešći razlozi povrede diskusa kod rekreativaca i onih koji se ne bave sportom:
+    - slabi leđni i trbušni mišići, dizanje teških stvari u neodgovarajućem položaju, 
+dugotrajno sedenje, rad u prinudnom položaju tela kada je ono nagnuto napred
+    - Sedenje izaziva pojavu većeg pritiska u diskusu nego kada stojimo!!! 
+      Razlog: veći statički rad mišića u sedećem položaju!
+U zglobove dodnjeg uda spadaju: spojevi karličnog pojasa (krsno-bedreni zglob (art. 
+sacroiliaca), preponska simfiza (symphysis pubica), dve snažne krsno-sedalne veze), zglob 
+kuka (art. coxae), zglob kolena (art. genus), spojevi potkolenice, spojevi stopala.
+Mišići koji vrše pokrete u zglobu kuka
+Kuk povezuje karličnu kost sa gornjim okrajkom butne kosti. To je loptasti troosovinski zglob, 
+pokretljiv u svim pravcima oko jedne obrtne tačke. Pokreti koje se vrše su sledeći:
+•Fleksija (podizanje noge put napred)  – najveća amplituda, vrše je: bedrenoslabinski 
+mišić (m. iliopsoas), pravi butni mišić (m.rectus femoris), terzijski mišić (m.sartorius), 
+češljasti mišić (m. pectineus)
+•Ekstenziju (podizanje noge put nazad), vrše:  veliki sedalni mišić (m.gluteus maximus), 
+mišići zadnje lože buta (m. semitendinosus, m. semimembranosus, m. biceps femoris)
+•Abdukciju (odvođenje noge u stranu) vrše : veliki sedalni mišić (m.gluteus maximus), 
+srednji sedalni mišić (m.gluteus medius), mali sedalni mišić (m.gluteus minimus), 
+zatezač butne fascije (m. tensor fasciae latae)
+•Adukcija (privođenje noge stajnoj nozi)  – najmanja amplituda, vrše mišići unutrašnje 
+lože: veliki privodilac (m. adductor magnus), dugi privodilac (m. adductor longus), 
+kratki privodilac (m. adductor brevis), m. gracilis i češljasti mišić (m. pectineus)
+•Unutrašnju rotaciju vrše : srednji sedalni mišić (m.gluteus medius) – prednji deo, mali 
+sedalni mišić (m.gluteus minimus) – prednji deo, zatezač butne fascije (m. tensor 
+fasciae latae) i bedrenoslabinski mišić (m. iliopsoas)
+•Spoljašnju rotaciju vrše : veliki sedalni mišić (m.gluteus maximus), pelvitrohanterični 
+mišići – mišići bedra (m. piriformis, m. obturatorius internus, m. obturatorius externus, 
+mm. gemelli, m. quadratus femoris)
+•Cirkumdukcija
+21
+
+=== PAGE 22 ===
+
+Mišići koji učestvuju u pokretima zgloba kolena
+Koleno je složen zglob, izgrađuju ga butna kost (femur), golenjača (tibia) i čašica (patella) -
+čašica  je  sezamoidna  kost  smeštena  u  završnoj  tetivi  četvoroglavog  mišića  buta  (m.
+quadriceps femoris). Zglobne površine na butnoj kosti i golenjači (kondila) ne odgovaraju
+jedna drugoj po obliku – na femuru su zakrivljene a na tibiji su plitke i gotovo ravne. Da bi
+se  povećala  kontaktna  površina  zglobnih  kondila  između  njih  su  umetnuti  adapteri  i
+amortizeri  pritiska  -  meniskusi  -  meniscus  medialis  i  meniscus  lateralis,  fibrozno
+hrskavičave  tvorevine  polumesečastog  oblika.  Prednja  ukrštena  veza  (lig.  cruciatum
+anterius). Zadnja ukrštena veza (lig. cruciatum posterius). Intrakapsularne veze, povezuju
+butnu kost i golenjaču i svojim zatezanjem sprečavaju prekomernu fleksiju, ekstenziju i
+unutrašnju rotaciju kolena. Zglob kolena je okružen debelim ligamentoznim omotačem
+izgrađenim  najvećim delom od mišićnih  tetiva  i njihovih nastavaka.  Ovaj zglob nema
+klasičnu fibroznu čahuru osim u zadnjem delu zgloba; ona nedostaje u prednjem delu gde je
+smeštena čašica (patella).
+Pokreti u zglobu kolena su: fleksija, ekstenzija, spoljašnja i unutrašnja rotacija.
+•Ekstenziju zgloba kolena vrše : četvoroglavi mišić buta (m. quadriceps femoris), zatezač
+butne fascije (m. tensor fasciae latae), veliki sedalni mišić – površni delovi (m. gluteus
+maximus)
+•Fleksiju  vrše:  mišići  zadnje  lože  buta  (m.  semimembranosus,  m.  semitendinosus,
+m.biceps femoris), terzijski mišić (m. sartorius), m.gracilis, m. gastrocnemius
+•Unutrašnju  rotaciju  vrše :  mišići  zadnje  lože  buta  (m.  semitendinosus,  m.
+semimembranosus),  terzijski  mišić  (m.  sartorius),  m.gracilis,  zatkoleni  mišić  (m.
+popliteus) 
+•Spoljašnju  rotaciju  vrši :  mišić  zadnje  lože  buta:  dvoglavi  mišić  buta  (m.  biceps
+femoris).
+Mišići koji učestvuju u pokretima zgloba stopala
+Najvažniji  su  gornji  (articulatio  talocruralis)  i  donji  skočni  zglob  (articulatio
+talocalcaneonavicularis) koji se funkcionalno dopunjuju.
+Gornji skočni zglob  spaja donje okrajke kostiju potkolenice (tibije i fibule) sa telom skočne
+kosti (talusa). Ima izgled dvokrake viljuške. Fibrozna (spoljašnja) čahura se pripaja duž
+ivica zglobnih površina na sve tri kosti. Zglobna čahura je slaba i tanka sa prednje i zadnje
+strane zgloba, a bočno je ojačana ligamentima.
+•Plantarna  fleksija  –  učestvuju  mišići  zadnje  lože  potkolenice:  troglavi  mišić
+potkolenice (m. triceps surae), tabanski mišić (m. plantaris), zadnji golenjačni mišić (m.
+tibialis posterior), pregibač prstiju stopala (m. flexor digitorum longus), pregibač palca
+stopala  (m.  flexor  hallucis  longus),  mišići  spoljašnje  lože  potkolenice  (peronealni
+mišići)
+•Dorzalna fleksija – vrše je mišići prednje lože potkolenice: prednji golenjačni mišić (m.
+tibialis anterior), opružač prstiju stopala (m. extensor digitorum longus), opružač palca
+stopala (m. extensor hallucis longus)
+22
+
+=== PAGE 23 ===
+
+Donji skočni zglob  grade: skočna kost (talus), petna kost (calcaneus) i čunasta kost (os
+naviculare). Ligamenti  ojačavaju  donji  skočni  zglob,  sa  prednje,  zadnje,  unutrašnje  i
+spoljašnje strane. 
+•Inverzija – kombinacija adukcije (privođenja) i unutrašnje rotacije, vrše je: prednji
+golenjačni mišić (m. tibialis anterior), zadnji golenjačni mišić (m. tibialis posterior),
+troglavi mišić potkolenice (m. triceps surae).
+•Everzija –  kombinacija  abdukcije  (odvođenja)  i  spoljašnje  rotacije,  vrše  je:  dugi
+lišnjačni  mišić  (m.  peroneus  longus),  kratki  lišnjačni  mišić  (m.  peroneus  brevis),
+opružač prstiju stopala (m. extensor digitorum longus). 
+Mišići koji učestvuju u motorici ekstremiteta
+PREGLED MOTORIKE PRSTIJU
+Fleksija metakarpofalangealnih zglobova:
+-mm. lumbricales
+-mm. interossei volares,
+-mm. interossei dorsales ,
+-m. flexor digiti profundus,
+-mm. flexor digiti digiti sublimis.
+Ekstenzija metakaprofalangealnih zglobova :
+-m. extensor digitorum communis,
+-m. extensor indicis proprius et. m.extensor digiti quinti proprius.
+Fleksija proksimalnih interfalangealnih zglobova
+-m. flexor digitorum sublimis,
+-m. flexor digitorum profundis.
+Ekstenzija proksimalnih interfalangealnih zglobova :
+-m. extensor digitorum communis,
+-mm. lumbricales,
+-mm. interossei volares,
+-mm. interossei dorsales.
+Fleksija distalnih interfalangealnih zglobova:
+-m. flexor digitorum profundis.
+Ekstenzija distalnih interfalangealnih zglobova :
+-m. extensor digitorum comunis,
+-mm. lumbricales I i II,
+-mm. interossei volares,
+-mm. interossei dorsales.
+23
+
+=== PAGE 24 ===
+
+PREGLED MOTORIKE ŠAKE
+Supinacija šake:
+-m. supinator,
+-m. biceps brachii.
+Pronijacija šake:
+-m. pronator teres,
+-m. pronator quadratus.
+Volarna fleksija šake:
+-m. flexor carpi ulnaris,
+-m. flexor carpi radialis.
+Dorzalna fleksija šake:
+-m. extensor carpi radialis longus,
+-m. extensor radialis brevis,
+-m. extensor carpi ulnaris.
+Radijalna devijacija šake:
+-m. flexor carpi radialis,
+-m. extensor carpi radialis longus.
+Ulnarna devijacija šake:
+-m. flexor carpi ulnaris,
+-m extensor carpi ulnaris.
+PREGLED MOTORIKE PODLAKTA I NADLAKTA
+Fleksija podlakta:
+-m. brachialis,
+-m. biceps brachii.
+Esktenzija podlakta:
+-m. triceps brachii.
+Abdukcija nadlakta:
+-m. deltoideus,
+-m. supraspinatus et m. infraspinatus,
+-m. seratus anterior,
+-m. trapezius (pars descadens).
+Addukcija nadlakta:
+-m. pectoralis major,
+-m. teres major,
+-m. latissimus dorsi,
+-kao i mišići koji spuštaju rame i addukuju i rotiraju unutra lopaticu.
+Fleksija nadlakta:
+-m. deltoideus (pars clavicularis et pars acromialis),
+-m. biceps brachii caput longum,
+-m. pectoralis major, (ars clavicularis et pars sternocostalis)
+-m. supraspinatus.
+24
+
+=== PAGE 25 ===
+
+Ekstenzija nadlakta:
+-m. deltoideus (pars spinata)
+-m. latissimus dorsi,
+-m. teres minor,
+-m. triceps brachii.
+Spoljašnja rotacija nadlakta:
+-m. infraspinatus,
+-m. teres minor,
+-m. deltoideus (pars spinata),
+-m. trapezius,
+-m. trapezius brachii caput longum.
+Unutrašnja rotacija nadlakta:
+-m. subscapularis,
+-m. teres major,
+-m. latissimus dorsi,
+-m. pectoralis major,
+-m. seratus anterior.
+PREGLED MOTORIKE NOGE
+Fleksija natkolenice:
+-m. iliopsoas,
+-m. tensor fasciae latae,
+-m. sartorius,
+-m. rectus femoris.
+Ekstenzija natkolenice:
+-m. gluteus maximus,
+-m. semitendinosus,
+-m. semimembranosus,
+-m. biceps femoris.
+Addukcija natkolenice:
+-m. adductor magnus,
+-m. adductor longus,
+-m. adductor brevis,
+-m. pectineus.
+Abdukcija natkolenice:
+-m. gluteus medius,
+-m. gluteus minimus,
+-m. gluteus maximus,
+-m. tensor faciae latae,
+-m. sartorius.
+Spoljašnja rotacija natkolenice:
+-mm. gluteus medius et minimus,
+-m. tensor fasciae latae,
+-m. semitendinosus,
+-m. semimembranosus.
+25
+
+=== PAGE 26 ===
+
+Unutrašnja rotacija natkolenice:
+-m. piriformis,
+-m. gemellus superior,
+-m. gemellus inferior,
+-m. obturator internus,
+-m. obturator externus,
+-m. quadriceps femoris.
+Ekstenzija potkolenice:
+-m. quadriceps femoris,
+-m. tensor fasciae latae.
+Fleksija potkolenice:
+-m. biceps femoris,
+-m. semitendinosus i m. semimembranosus,
+-m. sartorius,
+-m. popliteus.
+PREGLED MOTORIKE STOPALA
+Plantarna fleksija stopala:
+-m. triceps surae,
+-m. tibialis posterior,
+-m. flexor digitorum longus,
+-m. flexor hallucis longus.
+Dorzalna fleksija stopala:
+-m. tibialis anterior,
+-m. ekstensor digitorum longus,
+-m. ekstensor hallucis longus,
+-m. peroneus tertius.
+Supinacija stopala:
+-m. triceps surae,
+-m. tibialis anterior,
+-m. tibialis posterior,
+-m. flexor digitorum longus,
+-m. flexor hallucis longus.
+Pronacija stopala:
+-m. peroneus longus,
+-m. peroneus brevis,
+-m. peroneus tertius,
+-m. extensor digitorum longus,
+-m. extensor hallucis longus.
+26
+
+=== PAGE 27 ===
+
+IV DEO
+Kinetički lanci
+Retki su pokreti gde se dejstvo jednog mišića ispoljava samo pokretanjem poluga za koje je
+neposredno vezan. To su obično prosti pokreti najekstremnijim delovima tela, pod uslovom da
+ostali deo tela bude učvršćen. Zato se vrlo često sreće dejstvo mišića koje se ispoljava i na
+susednim delovima tela, koje on ne može neposredno pokretati. Ovakav kompleks pokreta koji
+izaziva jedan mišić neposredno u predelu svoje lokacije i posredno na susedne delove tela
+naziva se lanac pokreta ili kinetički  lanac. Zavisno od toga, da li postoji čvrsta tačka na
+krajevima takvih lanaca, razlikuju se otvoreni i zatvoreni kinetički lanci.
+Otvoreni kinetički lanci
+Javlja se u slučaju kada se radi o sistemu delova tela koji je učvršćen samo na jednom svom
+kraju. Drugi kraj je slobodan i cilj je da se specifičnim dejstvom mišića u kinetičkim lancima
+taj otvoreni kraj kinetičkog  lanca pokrene na određeni način, već prema  tome šta se želi
+kretanjem postići.
+Najprostiji primer dejstva u otvorenom kinetičkom lancu je dejstvo mišića pregibača u
+zglobu lakta, gde je ruka slobodno opuštena.
+Zatvoreni kinetički lanci
+Javlja se u slučaju kada se radi o sistemu delova tela koji je učvršćen na oba kraja, a cilj je
+da se specifičnim dejstvom u zatvorenom kinetičkom lancu izvrši određeno pomeranje sistema
+unutar oba zatvorena kraja kinetička lanca.
+Najjednostavniji primer dejstva u zatvorenom kinetičkom lancu je dejstvo mišića pregibača
+u zglobu lakta gde se ruka nalazi u normalnom položaju, tj. opuštena pored tela, ali prstima
+oslonjena na neku čvrstu podlogu.
+Slabi leđni mišići
+Procenjuje  se  da  od  60  do  70  procenata  svih  slučajeva  bola  u  leđima  ima  uzrok  u
+prenapregnutim  mišićima.  Muskuloskeletalnom  sistemu  potrebna  je neka osnovna količina
+izdržljivosti da bi bio u stanju da zaštiti telo od bola. Mišićima je potrebna dobra snabdevenost
+krvlju i energijom da bi bili sposobni da održe vrhunsku performansu. Loše držanje ili grčevi u
+mišićima mogu da spreče dovoljan dotok hranljivih materija i kiseonika i da spreče ispiranje
+nakupljenih otpadnih materija u  leđnim mišićima.
+Na primer, kada sedite nagnuti napred, dve od tri grupe mišića koji podržavaju vaša leđa
+(stomačni i fleksori kuka) inaktivni su i zato slabe. Ako se ovakav položaj tela ponavlja iz dana
+u dan, ovi mišići postaju bolni, slabi, manje elastični, i skraćeni.
+27
+
+=== PAGE 28 ===
+
+Neizbalansiranost mišića
+Mišići koji podržavaju zglob često su neizbalansirani. Na primer, fleksori mogu biti uži i
+kraći od ekstenzora, tako da zglob ne može da se potpuno ispravi, ili mišići rotatori koji okreću
+telo u jednom pravcu imaju veću snagu nego oni koji ga okreću u drugom (kao kod golfa). Ove
+nejednake sile oslabljuju zglob i čine ga ranjivim. Delovi koštane mase trpe veća opterećenja
+nego što bi trebala. Ovaj nedostatak izbalansiranosti može prouzrokovati bol. Lagano istezanje
+leđnih mišića koje se postiže inverzijom može da pomogne u poboljšavanju prokrvljenosti
+vaših leđnih mišića. Kroz redovan program invertovanja uz streching i jačanje mišića, ove
+grupe mišića mogu se ponovo izbalansirati. Na osnovu svega pomenutog, može se zaključiti
+sledeće:
+•  mišićima je potrebno redovno vežbanje da bi održavali stav tela
+•  razne jednostrane aktivnosti mogu dovesti do neizbalansiranosti mišića
+•  inverzija omogućava blagi streching koji poboljšava dotok krvi tim mišićima
+•  inverzija tako pomaže grupama mišića da se izbalansiraju i time poboljšava držanje tela
+Slaba elastičnost mičića
+Mišićima  i ligamentima  je potrebno redovno kretanje, u suprotnom postaju ukočeni i
+nefleksibilni. Kako telo stari, diskusi se stanjuju, dovodeći intervertebralne zglobove bliže
+jedan drugom. Ligamenti koji podržavaju kičmu postaju opušteni, a time i zglobovi. U takvom
+stanju, svako, pa i najmanje opterećenje može dovesti do oštećenja. Sva oštećenja, istegnuća i
+druga  preopterećenja  sabiraju  se  tokom  života.  Ukoliko  se  ne  koriste  vežbe  za  ponovno
+uspostavljanje  normalne  fleksibilnosti,  nezalečeno  tkivo  može  postati  stalni  izvor  bola  i
+ukočenosti  u leđima.  Blago,  jednostavno  opterećivanje  kičme  i  pomeranje  može  ovakvim
+povredama da pomogne da budu elastičnije ili apsorbovane od strane novog tkiva. Ovakvo
+jačanje može sprečiti ponovne povrede. Može se zaključiti  da je   mišićima  i ligamentima
+potrebno redovno istezanje – streching da bi zadržali svoju elastičnost i snagu.
+Kičma - značaj u održanju statike
+Značaj kičme je višestruk. Kičma štiti kičmenu moždinu od povređivanja. Istovremeno
+kičma daje čvrstinu i potporu telu. Iz glave gde je smešten mozak, kao deo centralnog nervnog
+sistema,  nastavlja  se  kičmena  moždina,  koja  prolazi  kroz  kičmeni  kanal.  Kičmeni  kanal
+sačinjavaju koštani otvori u svakom pršljenu. Iz kičme se dalje granaju periferni nervi koji
+oživčavaju celo telo. Kičma se sastoji od pršljenova, a svaki pršljen sa susednim i gore i dole,
+predstavlja zglob. Obzirom da su pršljenovi po sastavu koštana masa, da ne bi došlo do trenja,
+između svakog pršljena je smešten po jedan disk, koji je od pulpoznog mekanog tkiva, sa
+funkcijom amortizacije pokreta, i sprečavanja trenja koštanih zglobnih površina tela pršljena.
+Kompaktnost, čvrstina i elastičnost kičme se obezbeđuje ostalim mekim tkivom koje i počinje i
+završava sa koštane mase pršljenova.
+28
+
+=== PAGE 29 ===
+
+Najčešće aktivnosti koje uzrokuju nastanak bola
+Svaka radna ili sportska aktivnost ili aktivnost svakodnevnog života, ukoliko se ne pravilno
+ili naglo izvede ili vremenski dugo traje, može da prouzrokuje bol u lumbalnom delu leđa. Bol 
+se najčešće vezuje za sledeće aktivnosti:
+nepravilno dizanje tereta ma koje težine, gde se trup savija i rotira
+nagli pokret rotacije, savijanja ili rotacije i istezanja trupa
+dugotrajno vršenje neke radnje:
+1.dugotrajno sedenje
+2.dugotrajna vožnja automobilom
+3.dugotrajno hodanje
+4.dugotrajno stajanje
+loš položaj u toku spavanja
+povrede  koštano-mišićnog  sistema  lumbalne  regije  –  traume  (najčešće  saobraćajni
+udesi, povrede u toku sportskih aktivnosti...)
+Suštinski razlog nastanka lumbalnog bola - mišićna slabost kao posledica inaktivnosti
+Mišići trupa koji su veza trupa i karlice su: mišići zadnjeg dela leđa, nalaze se pored kičme
+obostrano (m.m. extensores trunci), glutealni mišići (m.gluteus minimus, medius et maximus),
+sa prednje strane trupa trbušni mišić (m.rectus abdominis) i fleksor natkolenice (m. iliopsoas), i
+sa obe  strane  trupa  bočno  (m.m.lat.  flexores  trunci:m.obliquus  abdominis  ext,  m.obliquus
+abdominis int, m.quadratus lumborum); Lumbalna regija predstavlja mesto gde se trup spaja sa
+karlicom, a karlica sa nogama i čini jedan od najpokretljivijih delova kičmenog stuba a u isto
+vreme je to deo koji trpi najveće opterećenje. Ujedno, to je i mesto gde se nalazi težište čitavog
+tela  ili  tačnije  rečeno  njegovo  središte.  Telo  čoveka  se  u  prostoru  nalazi  u  labilnoj
+ravnoteži,koja  da  bi se održavala  zahteva  konstantnu,preciznu  akciju velike  grupe  mišića.
+Površina  oslonca  su  stopala,  težište  tela  je  najšešće  1  metar  od  podloge,  a  kompletno
+opterećenje težine tela i sile zemljine teže u lumbalnoj kičmi. Mišićna slabost najčešće kao
+posledicu ima loše posturalno držanje tela i lošu biomehaniku.  To je i razlog zbog čega bi
+trebalo da navedene mišićne grupe budu jake. Stabilnost veze trupa-karlice i nogu proističe iz
+mišićne mase i snage navedenih mišićnih grupa. Suština telesnog vežbanja gde je akcenat na
+stvaranju pelvitrohanteričnog midera je u što boljoj zaštiti kičme.
+Mišićni disbalans
+Mišićna snaga, pojedinačnih mišića i mičićnih grupa, trebalo bi da bude izbalansirana,
+harmonična i ujednačena. Telo čoveka je simetrično. Preko 640 mišića se nalazi u čovekovom
+telu. Svaki od tih mišića ima svoju osnovnu funkciju. U svakoj situaciji tela, postoje mišići koji
+vrše  određeni  pokret  (agonisti),  kome  se  suprostavljaju  mišići  koji  isti  taj  pokret
+onemogućavaju-otežavaju (antagonisti). Ukoliko postoji bilo koji mišićni, disbalans, mišićni
+tonus se povećava, a sam mišić gura kosti i zglobove iz svog fiziološkog položaja, tako da
+kosti, mišići i zglobovi trpe konstantno opterećenje. Dolazi do deformiteta i poremećaja statike,
+koji su uzrok bola u pojedinim delovima tela, kako ekstremitetima tako i unutrašnjim organima.
+Fizikalna terapija
+Terapija  bola  fizikalnim  procedurama  najpribližnija  je  prirodnim  procedurama  zbog
+odsustva agresije, blagotvornosti i prijatnosti. U određivanju fizikalne terapije, značajna je
+29
+
+=== PAGE 30 ===
+
+anamneza, dijagnostika, klinički pregled, funkcionalni status.. Obzirom da je širok spektar
+fizikalnih procedura, odabira se najbolja moguća kombinacija fizikalnih procedura. Značajno je
+napomenuti da ono što prija i daje efekta u lečenju kod jednog pacijenta, ne mora da prija i da
+efekat u lečenju kod drugog pacijenta sa sličnim problemom.
+U fizikalnoj terapiji, primenjuju se razne vrste zračenja počev od magneto terapije, ultra
+zvuka, lasera, infra red, kao i struje različite frekvencije i modulacije. Dejstvo aparaturne
+fizikalne  trapije  je  anelgezija  i  vazodilatacija,  kao  i  celularno  pospešivanje  metabolizma.
+Primenjuje se elektroforeza leka lokalno na bolno mesto (prokain ili kalijum jodid, 3% rastvor)
+koristeći  pravilo  protoka  električne  energije  od  pozitivne  do  negativne  elektrode.  Od  bez
+aparaturnih procedura aplikuje se glina i tople kupke – topla pakovanja. Terapeutska masaža i
+akupresura bolnih mesta i muskulature koja je u spazmu predstavlja sastavni deo fizikalne
+terapije. U proseku trajanje fizikalnih procedura u kontinuitetu iznosi 2-3 nedelje. Bitno je
+ispoštovati kontinuitet terapije. Fizikalna terapija predstavlja uvodnu proceduru u sistemsko
+rešavanje problema lumbalnog bola a to je kineziterapija - medicinske vežbe.
+Manipulativne metode - kiropraktika kičmenog stuba
+Potpuna indikacija za primenu  kiripraktike  je mišićni,  disbalans, gde se mišićni  tonus
+povećava, a sam mišić gura kosti i zglobove iz svog fiziološkog položaja, tako da kosti, mišići i
+zglobovi trpe konstantno opterećenje i bol. Kiropraktika nema efekta ukoliko postoji mišićni
+spazam.  Zato,  tek  posle  par  dana  od  započinjanja  sa  fizikalnim  procedurama,  koje  sem
+anelgzije imaju i relaksirajuće dejstvo, koje pospešuju masaže kao i medikamentozna terapija,
+trebalo bi stvoriti preduslove za primenu kiropraktike kao jedne od metoda za odstranjivanje
+lumbalnog bola.
+Kineziterapijske procedure lumbalnog bola
+Sa kineziterapijom se započinje kada se potpuno otkloni bol. Sistemsko rešavanje 
+lumbalnog bola, kao i prevencija njegovog nastanka, obuhvata kineziterapijske procedure koje 
+su akcentirane na stvaranje mišićne mase i snage pelvitrohanterične muskulature. Cilj je da jaka
+muskulatura preuzme deo tereta lumbalne kičme. Bitno je napomenuti da ne postoji aktivnost 
+svakodnevnog života koja jača lumbo-sakralne ekstenzore kičme. Isto tako ne postoji ni 
+sportska aktivnost koja jača mišiće ove regije. To je i najčešći razlog ovih tegoba.
+30
+
+=== PAGE 31 ===
+
+VI DEO
+Kako jačati pelvitrohanteričnu muskulaturu - VEŽBE
+Važna napomena je da se vežbe rade na vreme (bez brojanja). Pauza između svake vežbe je
+1 minut. Suština vežbanja je da se vežbe urade pravilno. 
+Početni položaj vežbe 1:  ležeći na stomaku, ruke opružene u laktovima nalaze se iznad glave. 
+Konačni položaj: istovremeno dižemo od podloge trup i noge sa opruženim kolenima i 
+savijamo ruke u ramenima i laktovima do 90 stepeni. Telo zadržavamo u ovom položaju 3 
+sekunde. 
+Vreme trajanja vežbe 1:  maksimalno vreme trajanja 3 minuta;
+Početni položaj vežbe 2:  ležeći na stomaku, ruke opružene u laktovima nalaze se iznad glave. 
+U šakama je lopta, različitih težina. 
+Konačni položaj: istovremeno dižemo od podloge trup i noge sa opruženim kolenima i ruke sa
+opruženim laktovima, sa loptom u rukama. Telo zadržavamo u ovom položaju 3 sekunde.
+Vreme trajanja vežbe 2:  maksimalno vreme trajanja 3 minuta; Preporučeno vreme trajanja 
+vežbe 2 min. i 45 sekundi.
+Početni položaj vežbe 3:  ležeći na stomaku, šake su na potiljku.
+Konačni položaj: istovremeno dižemo od podloge trup i noge sa opruženim kolenima. Šake 
+ostaju na potiljku. Telo zadržavamo u ovom položaju 3 sekunde.
+Vreme trajanja vežbe 3:  maksimalno vreme trajanja 3 minuta; Preporučeno vreme trajanja 
+vežbe 2 min. i 30 sekundi.
+Početni položaj vežbe 4:  ležeći na stomaku, šake su na lumbalnom delu leđa. 
+Konačni položaj: istovremeno dižemo od podloge trup i noge sa opruženim kolenima. Ruke 
+ostaju na lumbalnom delu leđa. Telo zadržavamo u ovom položaju 3 sekunde.
+Vreme trajanja vežbe 4:  maksimalno vreme trajanja 3 minuta; Preporučeno vreme trajanja 
+vežbe 2 min. i 15 sekundi.
+Početni položaj vežbe 5:  ležeći na stomaku, ruke su opružene u laktovima i nalaze se pored 
+tela, šake su na podu. 
+Konačni položaj: istovremeno dižemo od podloge trup i noge sa opruženim kolenima. Ruke 
+ostaju pored tela a šake na podu. Telo zadržavamo u ovom položaju 3 sekunde.
+Vreme trajanja vežbe 5:  maksimalno vreme trajanja 3 minuta; Preporučeno vreme trajanja 
+vežbe 2 min.
+Početni položaj vežbe 6:  ležeći na leđima, ruke su opružene u laktovima i nalaze se pored tela,
+šake su na podu. Noge su sastavljene i savijene u kuku, a potkolenice u kolenu, tako da 
+potkolenice i natkolenice formiraju ugao od 90 stepeni. 
+Među položaj: započinjemo torziju trupa na levu stranu. Noge su sastavljene, a potkolenice i 
+natkolenice i dalje stoje pod uglom od 90 stepeni. Ruke ostaju pored tela a šake na podu. 
+Trudimo se da oba ramena ostanu na podu. 
+Konačni položaj levo:  iz ovog položaja, opružamo obe noge u kuku i kolenima. Telo 
+zadržavamo u ovom položaju 3 sekunde. Iz ovog položaja telo vraćamo u početni položaj, 
+31
+
+=== PAGE 32 ===
+
+odakle započinjemo torziju u desnu stranu.
+Među položaj desno. Konačan položaj torzije desno zadržava se 3 sekunde.
+Vreme trajanja vežbe 6:  vežba se radi u kontinuitetu, jedna pa druga strana sa zadržavanjem u
+konačnom položaju od 3 sekunde.
+Maksimalno vreme trajanja 5 minuta; Preporučeno vreme trajanja vežbe 3 min.
+Početni položaj vežbe 7:  ležeći na leđima, ruke su opružene u laktovima i nalaze se pored tela,
+šake su na podu. Noge su blago razmaknute i savijene u kuku, a stopala se nalaze na lopti 
+(lopta prečnika 75 cm za odasle osobe). Potkolenice i natkolenice formiraju ugao nešto veći od 
+90 stepeni. 
+Konačni položaj: odižemo donji deo trupa i karlicu sa poda. Ramena i šake ostaju na podu. 
+Stopala se ne pomeraju i ostaju na lopti. Potkolenice i natkolenice koje iz početnog položaja 
+formiraju ugao nešto veći od 90 stepeni i dalje zadržavaju početni ugao. Telo zadržavamo u 
+ovom položaju 3 sekunde. Iz ovog položaja telo vraćamo u početni položaj. 
+Vreme trajanja vežbe 7:  maksimalno vreme trajanja 5 minuta; Preporučeno vreme trajanja 
+vežbe 3 min.
+Početni položaj vežbe 8:  ležeći na leđima, ruke su opružene u laktovima i nalaze se pored tela,
+šake su na podu. Noge su blago razmaknute i savijene u kuku, a opružene u kolenima. 
+Potkolenice se nalaze na lopti (lopta prečnika 75 cm za odasle osobe). 
+Konačni položaj: odižemo donji deo trupa i karlicu sa poda. Ramena i šake ostaju na podu. 
+Potkolenice ostaju na lopti.. Telo zadržavamo u ovom položaju 3 sekunde. Iz ovog položaja 
+telo vraćamo u početni položaj. 
+Vreme trajanja vežbe 8:  maksimalno vreme trajanja 5 minuta; Preporučeno vreme trajanja 
+vežbe 2 min. i 45 sekundi.
+Početni položaj vežbe 9:  ležeći na leđima, ruke su opružene u laktovima i nalaze se pored tela,
+šake su na podu. Noge su blago razmaknute i savijene u kuku i kolenu. Potkolenice i 
+natkolenice zaklapaju ugao približno od 110 stepeni. 
+Konačni položaj: odižemo donji deo trupa i karlicu sa poda. Ramena i šake ostaju na podu. 
+Stopala ostaju u početnom položaju - na podu. Telo zadržavamo u ovom položaju 3 sekunde. Iz
+ovog položaja telo vraćamo u početni položaj.
+Vreme trajanja vežbe 9:  maksimalno vreme trajanja 5 minuta; Preporučeno vreme trajanja 
+vežbe 2 min. i 30 sekundi.
+Početni položaj vežbe 10:  ležeći na leđima, ruke su na grudima. Noge su blago razmaknute i 
+savijene u kuku i kolenu. Potkolenice i natkolenice zaklapaju ugao približno od 110 stepeni. 
+Konačni položaj: odižemo gornji deo trupa i donje uglove lopatica od podloge. Stopala ostaju 
+u početnom položaju - na podu. Telo zadržavamo u ovom položaju 3 sekunde. Iz ovog položaja
+telo vraćamo u početni položaj. 
+Vreme trajanja vežbe 10:  maksimalno vreme trajanja 5 minuta; Preporučeno vreme trajanja 
+vežbe 3 min.
+Početni položaj vežbe 11:  ležeći na leđima, ruke su na stomaku. Noge su blago razmaknute i 
+savijene u kuku i kolenu. Potkolenice i natkolenice zaklapaju ugao približno od 110 stepeni. 
+Konačni položaj: odižemo gornji deo trupa i donje uglove lopatica od podloge. Stopala ostaju 
+u početnom položaju - na podu. Telo zadržavamo u ovom položaju 3 sekunde. Iz ovog položaja
+telo vraćamo u početni položaj. 
+32
+
+=== PAGE 33 ===
+
+Vreme trajanja vežbe 11:  maksimalno vreme trajanja 5 minuta; Preporučeno vreme trajanja 
+vežbe 2 min. i 45 sekundi.
+Početni položaj vežbe 12:  ležeći na leđima, ruke su opružene u laktovima i nalaze se pored 
+tela. Šake su na podu. Noge su blago razmaknute i savijene u kuku i kolenu. Potkolenice i 
+natkolenice zaklapaju ugao približno od 110 stepeni. 
+Konačni položaj: odižemo gornji deo trupa i donje uglove lopatica od podloge. Stopala ostaju 
+u početnom položaju - na podu. Telo zadržavamo u ovom položaju 3 sekunde. Iz ovog položaja
+telo vraćamo u početni položaj. 
+Vreme trajanja vežbe 12:  maksimalno vreme trajanja 5 minuta; Preporučeno vreme trajanja 
+vežbe 2 min. i 30 sekundi.
+Početni položaj vežbe 13:  ležeći na leđima, ruke su na grudima. Noge su blago razmaknute i 
+savijene u kuku i kolenu. Potkolenice i natkolenice zaklapaju ugao približno od 110 stepeni. 
+Konačni položaj: odižemo gornji deo trupa i donje uglove lopatica od podloge. Desnom 
+šakom dodirnemo spoljnu stranu levog kolena. Telo zadržavamo u ovom položaju 3 sekunde. 
+Iz ovog položaja telo vraćamo u početni položaj. Iz početnog položaja, odižemo gornji deo 
+trupa i donje uglove lopatica od podloge. Levom šakom dodirnemo spoljnu stranu desnog 
+kolena. Telo zadržavamo u ovom položaju 3 sekunde. Iz ovog položaja telo vraćamo u početni 
+položaj.
+Vreme trajanja vežbe 13:  vežba se radi u kontinuitetu, jedna pa druga strana sa zadržavanjem 
+u konačnom položaju od 3 sekunde.
+Maksimalno vreme trajanja 5 minuta; Preporučeno vreme trajanja vežbe 2 min. i 15 sekundi.
+U tretiranju lumbalnog bola navedeni su postupci i terapija. Pacijenti-sportisti su obično ne
+strpljivi, ali brzo instant rešenje ne postoji. Ne postoji ni čarobna pilula koja sistemski rešava
+problem. Kritičan momenat po otklanjanju bola je početak kineziterapijskih procedura. U tom
+trenutku kompletan oporavak zavisi od pacijenta-sportiste. On je taj koji vežba i čini da mu je
+bolje. Logično je da samom pacijentu najviše znači da mu je stanje bolje a lečenje uspešnije.
+Ali na žalost nije uvek i pravilo. Brzo otklanjane bola je moguće, pitanje je samo šta se time
+dobija, a šta gubi. Preporuka je da kada god postoji sistemsko rešenje, trebalo bi ga i primeniti.
+33
+
+=== PAGE 34 ===
+
+FORMULA MIŠIĆNE KONTROLE
+Formula mišićne kontrole počinje definisanjem problema - na osnovu određenog 
+pokreta (ili položaja) u zglobu, utvrditi:
+1.vrstu pokreta (ili položaja),
+2.ravan u kojoj se vrši pokret,
+3.uticaj spoljašnje sile koja deluje na sistem,
+4.vrstu mišićnog naprezanja (npr. približavanje pripoja /koncentrična kontrakcija, 
+udaljavanje pripoja/ekscentrična kontrakcija ili izometrija) 
+5.Sa koje strane se mišići istežu tokom pokreta, a sa koje strane se skraćuju u odnosu na 
+osu zgloba?
+6.koji mišići učestvuju u pokretu (npr. koji mišići aktivno učestvuju u pokretu).
+Korak 1
+- Odrediti vrstu pokreta u zglobu (npr. fleksija, abdukcija) ili položaj u 
+zglobu.
+Korak 2
+- Odrediti uticaj spoljašnje sile (npr. sile teže) na pokret u zglobu ili položaj, 
+postavljanjem sledećeg pitanja:
+„Kakav bi pokret izvršila spoljašnja sila u odsustvu sile mišića?“
+Korak 3
+- Odrediti vrstu mišićne kontrakcije (koncentrična, ekscentrična, izometrijska) na 
+osnovu odgovora u Koraku 1 i 2 na sledeći način:
+•Ako su odgovori u Koraku 1 i 2 suprotni, onda se mišići aktivno 
+skraćuju koncentričnom kontrakcijom. Brzina pokreta nije značajna.
+•Ako odgovori u Koraku 1 i 2 nisu suprotni, onda se postavlja pitanje 
+„Kojom brzinom se vrši pokret?
+•Ako je pokret brži od pokreta koji bi izvršila spoljašnja sila, onda se 
+mišići aktivno skraćuju koncentričnom kontrakcijom.
+•Ako je pokret sporiji od pokreta koji bi izvršila spoljašnja sila, onda se 
+mišići aktivno istežu ekscentričnom kontrakcijom.
+•Ako nema pokreta, pri čemu bi spoljašnja sila izvršila pokret kada bi 
+delovala samostalno, onda mišići stvaraju izometrijsku kontrakciju.
+- Pokreti koji su normalni na pravac delovanja sile teže (npr. paralelno sa 
+podlogom) vrše se koncentričnom kontrakcijom.
+- Kada sila teže ne utiče na pokret u zglobu, potrebno je skraćenje 
+(koncentrična kontrakcija) kako bi se pomerio odgovarajući segment tela. Brzina 
+pokreta nije zanačajna.
+Korak 4
+- Odrediti ravan kretanja (frontalna, sagitalna, transverzalna) i osu rotacije (tj. 
+liniju oko koje se vrši rotacija u zglobu). Svrha ovog koraka je da se odredi sa 
+koje strane zgloba se pružaju mišići koji vrše pokret (npr. fleksori se pružaju sa 
+jedne strane zgloba, dok se ekstenzori pružaju sa suprotne strane).
+34
+
+=== PAGE 35 ===
+
+•Korak 5
+-Postaviti pitanje „Sa koje strane se mišići istežu tokom pokreta, a sa koje 
+strane se skraćuju u odnosu na osu zgloba?
+•Korak 6
+- Spajanjem odgovora iz Koraka 3 i 5 odrediti koji mišići stvaraju ili kontrolišu 
+pokret (ili položaj).
+- Na primer, ako je potrebna koncentrična kontrakcija (skraćenje) (Korak 3) 
+i mišići prednje strane zgloba se skraćuju (Korak 5), onda ti mišići moraju aktivno 
+vršiti pokret.
+•U svim sledećim primerima, pretpostavljamo da ne postoji koaktivacija antagonista, što 
+omogućava da analizu pojednostavimo eliminisanjem uticaja antagonista. Koaktivacija 
+agonista-antagonista blokira zglob i otežava pokret u zglobu. 
+35
+
+=== PAGE 36 ===
+
+Prilog vežbi za analizu mišićne kontrakcije
+Analiza - ruka
+PRIMER 1
+Korak 1 (Vrsta pokreta u zglobu):  Pokret je fleksija.
+Korak 2 (Uticaj spoljašnje sile):  Spoljašnja sila (sila teže) nastoji da izvrši ekstenziju  lakta.
+Korak 3 (Vrsta kontrakcije):  Pokret u zglobu (fleksija) je suprotna pokretu koji stvara
+spoljašnja sila, tako da se mišići aktivno skraćuju koncentričnom kontrakcijom.
+Korak 4 (Ravan kretanja):  Kretanje se vrši u sagitalnoj ravni oko ose koja  prolazi kroz
+zglob lakta.
+Korak 5 (Sa koje strane se mišići istežu tokom pokreta a sa koje strane se skraćuju u
+odnosu na osu zgloba): Mišići prednje strane zgloba se skraćuju tokom pokreta, dok se mišići
+zadnje strane istežu.
+Korak 6 Spajanje koraka 3 i 5):  Mišić je u koncentričnoj kontrakciji ( Korak 3), dok se
+mišići prednje strane zgloba skraćuju ( Korak 5). Dakle, mišići prednje strane aktivno učestvuju
+u pokretu. U ovom pokretu učestvuju m. biceps brachii, m. brachialis i m. brachioradialis.
+PRIMER 1a
+Korak 1:Pokret je ekstenzija. Pokret iz b u a.
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši ekstenziju  lakta.
+Korak 3:Pokret u zglobu (ekstenzija) je isti kao i pokret koji vrši spoljašnja sila, tako da
+je potrebno postaviti  pitanje “Kojom brzinom se izvodi pokret?” Brzina je velika, što znači da
+se mišići koji kontrolišu  pokret aktivno skraćuju koncentričnom  kontrakcijom.
+Korak 4:Pokret se vrši u sagitalnoj ravni oko ose koja  prolazi kroz zglob lakta.
+Korak 5:Mišići prednje strane zgloba se izdužuju tokom  pokreta, dok se mišići zadnje
+strane skraćuju.
+Korak 6:Mišić je u koncentričnoj kontrakciji ( Korak 3), dok se mišići zadnje strane
+zgloba skraćuju (Korak 5). Dakle, mišići zadnje strane aktivno učestvuju u pokretu. Prema
+tome, ekstenzori lakta, prvenstveno m. triceps brachii je odgovoran za pokret.
+PRIMER 1b
+Korak 1:Pokret je ekstenzija. Pokret iz b u a.
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši ekstenziju lakta.
+36
+
+=== PAGE 37 ===
+
+Korak 3:Pokret u zglobu (ekstenzija) je isti kao i pokret koji vrši spoljašnja sila, tako da
+je potrebno postaviti pitanje “Kojom brzinom se izvodi pokret?” Brzina je mala, što znači da se
+mišići koji kontrolišu pokret aktivno i stežu ekscentričnom  kontrakcijom.
+Korak 4:Pokret se vrši u sagitalnoj ravni oko ose koja prolazi kroz zglob lakta.
+Korak 5:Mišići prednje strane zgloba se izdužuju tokom pokreta, dok se mišići zadnje
+strane skraćuju.
+Korak 6:Mišić je u koncentričnoj kontrakciji (Korak 3), dok se mišići zadnje strane
+zgloba skraćuju (Korak 5). Dakle, mišići zadnje strane aktivno učestvuju u pokretu. Prema
+tome,  fleksori  lakta  kontrolišu  pokret,  prvenstveno  m.  biceps  brachii,  m.  brachialis  i  m.
+brachioradialis.
+PRIMER 2
+Korak 1:Pokret koji se vrši je ekstenzija.  Pokret iz a u b.
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši fleksiju kolena.
+Korak 3:Pokret (ekstenzija) je suprotan pokretu koji bi nastao usled delovanja spoljašnje
+sile, što znači da se mišići aktivno skraćuju koncentričnom kontrakcijom.
+Korak 4:Pokret se vrši u sagitalnoj ravni oko ose koja prolazi kroz zglob kolena.
+Korak 5:Mišići prednje strane zgloba se skraćuju tokom pokreta, dok se mišići zadnje
+strane istežu. 
+Korak 6:Mišić je u koncentričnoj kontrakciji (Korak 3), dok se mišići prednje strane
+zgloba skraćuju (Korak 5). Otuda, mišići prednje strane zgloba aktvino učestvuju u pokretu.
+Prema  tome,  m.  quadriceps  femoris  (m.  vastus  medialis,  m.  vastus  lateralis,  m.  vastus
+intermedius i m. rectus femoris) vrši pokret.
+PRIMER 2a
+Korak 1:Pokret koji se vrši je fleksija.  Pokret iz b u a.
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši fleksiju kolena.
+Korak 3:Pokret (fleksija) je isti kao i pokret koji stvara spoljašnja sila, pa se postavlja
+pitanje „Kojom brzinom se izvodi pokret?“ Brzina je mala, što ukazuje na to da se mišići koji
+kontrolišu pokret aktivno istežu ekscentričnom kontrakcijom.
+Korak 4:Pokret se vrši u sagitalnoj ravni oko ose koja prolazi kroz zglob kolena.
+Korak 5:Mišići prednje strane zgloba se izdužuju, dok se mišići zadnje strane skraćuju.
+Korak 6:Mišić je u ekscentričnoj kontrakciji (Korak 3), dok se mišići prednje strane
+zgloba izdužuju (Korak 5). Stoga mišići prednje strane zgloba aktivno izvode pokret. Dakle, m.
+quadriceps femoris (vastus medialis, m. vastus lateralis, m. vastus intermedius i m. rectus
+femoris) kontroliše pokret.
+37
+
+=== PAGE 38 ===
+
+PRIMER 3
+Korak 1:Pokret koji se vrši je abdukcija .
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši  adukciju ruke.
+Korak 3:Pokret (abdukcija) je suprotan pokretu koji  stvara spoljašnja sila, tako da se
+mišići aktivno skraćuju koncentričnom kontrakcijom.
+Korak 4:Pokret se vrši u frontalnoj ravni oko  vertikalne ose koja prolazi kroz zglob
+ramena.
+Korak 5:Mišići gornje strane zgloba se skraćuju tokom  pokreta, dok se mišići donje
+strane zgloba  istežu.
+Korak 6:Mišić je u koncentričnoj kontrakciji (Korak 3) i  mišići gornje strane zgloba  se
+skraćuju (Korak 5). Dakle, mišići gornje strane zgloba (abduktori)aktivno vrše pokret. Prednja i
+srednja vlakna m. deltoideusa i m. supraspinatus učestvuju u izvođenju pokreta.
+PRIMER 3a
+Korak 1:Pokret koji se vrši je adukcija .
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši  adukciju ruke.
+Korak 3:Pokret (adukcija) je ista kao pokret koji  stvara spoljašnja sila, te je potrebno
+postaviti pitanje "Kojom brzinom se izvodi pokret". Brzina je mala,  što ukazuje da se mišići
+koji kontrolišu pokret aktivno istežu ekscentričnom kontrakcijom.
+Korak 4:Pokret se vrši u frontalnoj ravni oko  ose koja prolazi kroz zglob ramena.
+Korak 5:Mišići gornje strane zgloba se istežu tokom  pokreta, dok se mišići donje strane
+zgloba  skraćuju.
+Korak 6:Mišići su u ekscentričnoj kontrakciji (Korak 3) i  mišići gornje strane zgloba  se
+istežu (Korak 5). Dakle, mišići gornje strane zgloba aktivno kontrolišu pokret. Pokret izvode m.
+deltoideus i m. supraspinatus.
+PRIMER 3b
+Korak 1:Pokret koji se vrši je adukcija .
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši  adukciju ruke.
+Korak 3:Pokret (adukcija) je ista kao pokret koji  stvara spoljašnja sila, te je potrebno
+postaviti pitanje "Kojom brzinom se izvodi pokret". Brzina je velika,  što ukazuje da se mišići
+koji kontrolišu pokret aktivno skraćuju koncentričnom kontrakcijom.
+Korak 4:Pokret se vrši u frontalnoj ravni oko  ose koja prolazi kroz zglob ramena.
+38
+
+=== PAGE 39 ===
+
+Korak 5:Mišići gornje strane zgloba se istežu tokom  pokreta, dok se mišići donje strane
+zgloba  skraćuju.
+Korak 6:Mišići su u koncentričnoj kontrakciji (Korak 3) i  mišići donje strane zgloba  se
+skraćuju (Korak 5). Dakle, mišići donje strane zgloba aktivno vrše pokret. Prema tome aduktori
+ramena (m. pectoralis major, m. latissimus dorsi, m. teres major) vrše pokret.
+PRIMER 4
+Korak 1:Pokret koji se vrši je medijalna rotacija.  Pokret iz a u b.
+Korak 2:Spoljašnja sila  (elastična  traka)  nastoji  da izvrši  lateralnu  rotaciju u zglobu
+ramena
+Korak 3:Pokret (medijalna rotacija) je suprotan pokretu koji  stvara spoljašnja sila, tako
+da se mišići aktivno  skraćuju koncentričnom kontrakcijom.
+Korak 4:Pokret se vrši u transverzalnoj ravni oko  vertikalne ose koja prolazi kroz zglob
+ramena.
+Korak 5:Mišići  unutrašnje  strane  zgloba  se  skraćuju  tokom  pokreta,  dok  se  mišići
+spoljašnje strane zgloba  izdužuju.
+Korak 6:Mišić je u koncentričnoj kontrakciji (Korak 3) i  mišići unutrašnje strane zgloba
+ramena se skraćuju  (Korak 5). Dakle, mišići unutrašnje strane zgloba aktivno vrše pokret: m.
+subscapularis, m. pectoralis major, m. deltoideus – prednja vlakna, m. latissimus dorsi i m.
+teres major vrše pokret.
+PRIMER 4a
+Korak 1:Pokret koji se vrši je spoljašnja rotacija.
+Korak 2:Spoljašnja sila (lateralna rotacija) nastoji da izvrši  rotaciju u zglobu ramena.
+Korak 3:Pokret (spoljašnja rotacija) je isti kao i pokret koji  stvara spoljašnja sila, te je
+potrebno postaviti pitanje „Kojom brzinom se izvodi pokret?“ Pokret se izvodi polako, tj.
+brzina je mala što znači da se mišići koji kontrolišu pokret aktivno izdužuju ekscentričnom
+kontrakcijom.
+Korak 4:Pokret se vrši u transverzalnoj ravni oko vertikalne ose koja prolazi kroz zglob
+ramena.
+Korak 5:Mišići unutrašnje strane zgloba se izdužuju, dok se mišići  spoljašnje strane
+skraćuju.
+Korak 6:Mišići su u ekscentričnoj kontrakciji (Korak 3) i  mišići unutrašnje strane zgloba
+se istežu (Korak 5).  Stoga mišići unutrašnje strane zgloba, medijalni rotatori aktivno  kontrolišu
+39
+
+=== PAGE 40 ===
+
+pokret (m. subscapularis, m. pectoralis major, m. deltoideus – prednja vlakna, m. latissimus
+dorsi i m. teres major).
+PRIMER 4b
+Korak 1:Pokret koji se izvodi je lateralna rotacija.
+Korak 2:Spoljašnja sila  (elastične  trake)  nastoji  da izvrši  lateralnu  rotaciju  u zglobu
+ramena.
+Korak 3:Pokret (lateralna rotacija) je isti kao i pokret koji stvara spoljašnja sila, te je
+potrebno postaviti pitanje “Kojom brzinom se izvodi pokret?” Pokret je brz, brzina je velika,
+što znači da se mišići koji kontrolišu pokret aktivno skraćuju koncentričnom kontrakcijom.
+Korak 4:Pokret se vrši u transverzalnoj ravni oko vertikalne ose koja prolazi kroz zglob
+ramena.
+Korak 5:Mišići  unutrašnje  strane  zgloba  se  izdužuju  tokom  pokreta,  dok  se  mišići
+spoljašnje strane zgloba skraćuju.
+Korak 6:Mišići su u koncentričnoj kontrakciji (Korak 3) i mišići spoljašnje strane zgloba
+se skraćuju (Korak 5). Dakle, mišići spoljašnje strane zgloba aktivno izvode pokret. To su
+lateralni rotatori (m. infraspinatus,  m. teres minor, m. deltoideus – zadnja vlakna).
+PRIMER 5
+Korak 1:Pokret koji se vrši je horizontalna adukcija (naziva se i horizontalna fleksija).
+Korak 2:Na  ovaj  pokret  ne  utiče  nijedna  spoljašnja  sila,  jer  je  pokret  paralelan  sa
+podlogom (nema  uticaja  sile teže jer se pokret vrši u horizontalnoj  ravni) i nema  drugih
+spoljašnjih sila (npr. elastične trake).
+Korak 3:Pokret (horizontalna adukcija) se vrši normalno na pravac delovanja sile teže,
+tako da se mišići aktivno skraćuju koncentričnom kontrakcijom kako bi savladali  inerciju
+segmenata ruke.
+Korak 4:Pokret se izvodi u transverzalnoj ravni oko vertikalne ose koja prozali kroz
+zglob ramena.
+Korak 5:Mišići prednje strane zgloba ramena se skraćuju tokom pokreta, dok se mišići
+zadnje strane zgloba istežu.
+Korak 6:Mišići su u koncentričnoj kontrakciji (Korak 3) i mišići prednje strane zgloba se
+skraćuju (Korak 5). Dakle, mišići  prednje strane zgloba  aktivno  izvode pokret. To su m.
+pectoralis major i m. deltoideus – prednja vlakna, prvenstveno izvode pokret.
+40
+
+=== PAGE 41 ===
+
+PRIMER 5a
+Korak 1:Pokret  koji  se  izvodi  je  horizontalna  abdukcija  (naziva  se  i  horizontalna
+ekstenzija).
+Korak 2:Na pokret ne utiče nijedna spoljašnja sila jer je pokret paralelan sa podlogom
+(nema uticaja sile teže) i nema drugih spoljašnjih sila (npr.elastične trake).
+Korak 3:Pokret (horizontalna abdukcija) se vrši normalno na pravac delovanja sile teže,
+tako da se mišići aktivno skraćuju koncentričnom kontrakcijom  kako bi savladali inerciju
+segmenata ruke.
+Korak 4:Pokret se vrši u transverzalnoj ravni oko vertikalne ose u zglobu ramena.
+Korak 5:Mišići zadnje strane zgloba se skraćuju tokom pokreta, dok se mišići prednje
+strane istežu.
+Korak 6:Mišići su u koncentričnoj kontrakciji (Korak 3) i mišići prednje strane zgloba se
+skraćuju  (Korak  5).  Stoga  mišići  zadnje  strane  zgloba  aktivno  izvode  pokret.  To  su  m.
+deltoideus – zadnja vlakna, m. teres major i m. latissimus dorsi.
+Analiza kičmeni stub
+PRIMER 6
+Korak 1:Pokret koji se vrši je fleksija.
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši ekstenziju trupa.
+Korak 3:Pokret (fleksija) je suprotan pokretu koji vrši spoljašnja sila, tako da se mišići
+aktivno skraćuju koncentričnom kontrakcijom.
+Korak 4:Pokret  se  vrši  u  sagitalnoj  ravni  oko  većeg  broja  osa  koje  prolaze  kroz
+pršljenove kičmenog stuba.
+Korak 5:Mišići prednje strane zgloba se skraćuju tokom pokreta, dok se mišići zadnje
+strane istežu.
+Korak 6:Mišići su u koncentričnoj kontrakciji (Korak 3) i mišići prednje strane zgloba se
+skraćuju (Korak 5). Stoga mišići prednje strane zgloba aktivno kontrolišu pokret. Dakle, m.
+rectus abdominis, m.obliqus internus i m. obliqus externus vrše pokret.
+PRIMER 6a
+Korak 1:Pokret koji se vrši je ekstenzija.
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši ekstenziju trupa.
+41
+
+=== PAGE 42 ===
+
+Korak 3:Pokret (ekstenzija) je isti kao i pokret koji vrši spoljašnja sila, te je potrebno
+postaviti pitanje „Kojom brzinom se izvodi pokret?“. Pokret se izvodi polako, što znači da se
+mišići koji kontrolišu pokret aktivno istežu ekscentričnom kontrakcijom.
+Korak 4:Pokret se vrši sagitalnoj  ravni oko višestrukog broja osa koje prolaze  kroz
+različite kičmene pršljenove.
+Korak 5:Mišići prednje strane zgloba se izdužuju, dok se mišići zadnje strane skraćuju.
+Korak 6:Mišići su u ekscentričnoj kontrakciji (Korak 3) i  mišići prednje strane zgloba se
+izdužuju (Korak 5).  Dakle, mišići prednje strane zgloba aktivno  kontrolišu pokret. Prema tome,
+m. rectus  abdominis kome pomažu m. obliqus internus i m. obliqus externus opet vrše pokret.
+PRIMER 7
+Korak 1:Trup je potpuno opružen – izdr žaj  (tj. u anatomskom položaju).
+Korak 2: Spoljašnja  sila  bi  izvršila  pokret  kada  bi  delovala  izolovano ,  ovako  nema
+uticaja.
+Korak 3:Pokreta nema, mišići su u izometrijskoj kontrakciji.
+Korak 4:Kada bi došlo do pokreta, sila teže bi izvršila fleksiju trupa u sagitalnoj ravni
+oko većeg broja osa koje prolaze kroz pršljenove kičmenog stuba.
+Korak 4:Kada bi došlo do pokreta, sila teže bi izvršila fleksiju trupa u sagitalnoj ravni
+oko većeg broja osa koje prolaze kroz pršljenove kičmenog stuba.
+Korak 5:Pripoji se ne pomeraju, zbog statičke kontrakcije. Mišići prednje strane zgloba
+bi se skratili tokom pokreta (kada bi do njega došlo), dok bi se mišići zadnje strane istezali.
+Korak 6:Mišići  su u izomertijskoj  kontrakciji  (Korak 3). Da bi se sprečila  promena
+dužine mišića sa obe strane trupa (Korak 5), mišić zadnje strane (m. erector spinae) mora biti
+aktivan kako bi sprečio fleksiju trupa i suprotstavio se sili teže.
+42
+
+=== PAGE 43 ===
+
+ZADATAK 8
+Korak 1. Lateralna fleksija na levu stranu-trup
+Korak 2. Lateralna fleksija na desnu stranu (teg)
+Korak 3. Koncentrična kontrakcija
+Korak 4. Frontalna ravan, sagitalna osa 
+Korak 5. “Unutrašnja” strana se skraćuje, “spoljašnja” se izdužuje
+Korak 6. m. obliqus internus, m. obliqus externus, m. rectus abdominis, m. pyramidalis, m.
+quadratus lumborum
+ZADATAK 9
+Korak 1. Rotacija-trup
+Korak 2. Nema uticaja
+Korak 3. Koncentrična kontrakcija
+Korak 4. Horizontalna ravan, vertikalna osa 
+Korak 5. “Unutrašnja” strana se skraćuje, “spoljašnja” se izdužuje
+Korak 6. m. obliqus internus, m. obliqus externus, m. rectus abdominis, m. pyramidalis
+43
+
+=== PAGE 44 ===
+
+ZADATAK 10
+Korak 1. Fleksija-kuk
+Korak 2. Ekstenzija
+Korak 3. Koncentrična kontrakcija
+Korak 4. Sagitalna ravan, frontalna osa 
+Korak 5. Prednja strana se skraćuje, zadnja se izdužuje
+Korak 6. m. rectus abdominis, m. obliqus internus, m. obliqus externus, m. tensor fasciae
+latae, m. rectus femoris
+ZADATAK 11
+Korak 1. Fleksija-kuk
+Korak 2. Ekstenzija
+Korak 3. Koncentrična kontrakcija
+Korak 4. Sagitalna ravan, frontalna osa 
+Korak 5. Prednja strana se skraćuje, zadnja se izdužuje
+Korak 6. m. rectus abdominis, m. obliqus internus, m. obliqus externus
+44
+
+=== PAGE 45 ===
+
+Analiza - noga
+PRIMER 12
+Korak 1:Pokreti koji se vrše su fleksija u kuku i kolenu i dorzalna fleksija u skočnom
+zglobu.
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši fleksiju kuka i kolena i dorzalnu
+fleksiju skočnog zgloba.
+Korak 3:Pokreti koji se izvode su isti kao i pokreti koje stvara spoljašnja sila, te je
+potrebno postaviti pitanje “Kojom brzinom se izvodi pokret?”. Brzna je mala, pokret je spor,
+što znači da se mišići koji kontrolišu pokret aktivno skraćuju ekscentričnom kontrakcijom u sva
+tri zgloba.
+Korak 4:Pokret se vrši u sagitalnoj ravni oko osa koje prolaze kroz kuk, koleno i skočni
+zglob.
+Korak 5:Mišići  prednje  strane  zgloba  kuka se skraćuju, dok se mišići  zadnje strane
+skočnog zgloba istežu. U zglobu kolena se mišići prednje strane istežu, dok se mišići zadnje
+strane skraćuju. U skočnom zglobu se mišići prednje strane skraćuju, a mišići zadnje strane
+istežu.
+Korak 6:Mišići su u ekscentričnoj kontrakciji (Korak 3). Mišići zadnje strane zgloba
+kuka i skočnog zgloba se istežu (Korak 5). U zglobu kolena se mišići prednje strane istežu
+(Korak 5). Dakle, fazu spuštanja prilikom čučnja kontroliše ekscentrična kontrakcija mišića
+ekstenzora kuka (m. gluteus maximus, m. semitendinosus, m. semimembranosus, m. biceps
+femoris - duga glava, m. adducor magnus - zadnja vlakna) i plantarnih fleksora (m. soleus i m.
+gastrocnemius uz malu pomoć m. peroneus longus i m. peroneus brevis, m. tibialis posterior,
+m. flexor hallucis longus, m. flexor digitorum longus i m. plantaris).
+PRIMER 12a
+Korak 1:Pokret koji se vrši u kuku i kolenu je ekstenzija, a u skočnom zglobu plantarna
+fleksija.
+Korak 2:Spoljašnja sila (sila teže) nastoji da izvrši fleksiju kuka i kolena i dorzalnu
+fleksiju skočnog zgloba.
+Korak 3:Pokreti koji se vrše su suprotni pokretima koje stvara spoljašnja sila, tako da se
+mišići aktivno skraćuju koncentričnom kontrakcijom u sva tri zgloba.
+Korak 4:Pokreti se vrše u sagitalnoj ravni oko osa koje prolaze kroz kuk, koleno i skočni
+zglob.
+45
+
+=== PAGE 46 ===
+
+Korak 5:Mišići  prednje  strane  zgloba  kuka  se  istežu,  dok  se  mišići  zadnje  strane
+skraćuju. U zglobu kolena se mišići prednje strane skraćuju, a mišići zadnje strane istežu. U
+skočnom zglobu se mišići prednje strane istežu, dok se mišići zadnje strane skraćuju.
+Korak 6:Mišići su u koncentričnoj kontrakciji (Korak 3). Mišići prednje stranje zgloba
+kuka i skočnog zgloba se skraćuju (Korak 5). U zglobu kolena, mišići prednje strane zgloba
+(Korak  5)  se  skraćuju.  Prema  tome,  faza  podizanja  iz  čučnja  nastaje  koncentričnom
+kontrakcijom ekstenzora kuka (m. gluteus maximus, m. semitendinosus, m. semimembranosus,
+m. biceps femoris - duga glava, m. adducor magnus - zadnja vlakna), ekstenzora kolena (m.
+vastus medialis, m. vastus lateralis, m. vastus intermedius, m. rectus femoris) i plantarnih
+fleksora (m. soleus i m. gastrocnemius uz malu pomoć m. peroneus longus i m. peroneus
+brevis,  m.  tibialis  posterior,  m.  flexor  hallucis  longus,  m.  flexor  digitorum  longus  i  m.
+plantaris).
+46
+
+=== PAGE 47 ===
+
+Literatura
+1.Anderson, B. (2006). Streching. Gopal. Zagreb.
+2.Behnke, R.,S. (2006). Kinetic Anatomy. Human Kinetics. USA
+3.Bubanj, R. (1998). Osnovi primenjene biomehanike u sportu . Niš, Novi Sad. 
+Pergament
+4.Bubanj, R. (2000). Osnovi primenjene biomehanike u kineziologiji . Niš, Novi Sad. 
+Pergament
+5.Dejanović, A., Fratrić, F. (2007). Kičmeni stub, (ne)trening i deca. Naučna 
+monografija. Novi Sad
+6.Lidell, L. i Thomas, S. (1990). Sve o masaži: istočne i zapadne tehnike. Mladinska 
+knjiga. Zagreb, Ljubljana.
+7.McGinnis, P. (2004). Biomehanics of Sport and Exercise . Human Kinetics. USA
+8.Nagavani, C. Text book of biomechanics and exercise therapy . Susruta college of 
+physiotherapy Dilshuknagar, Hyderabad
+9.Opavsky, P. (1982). Osnovi biomehanike . Zavod za izdavanje udžbenika. Beograd
+47
